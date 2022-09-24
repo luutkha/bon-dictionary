@@ -1,18 +1,33 @@
-import React from 'react';
-import { createRoot } from 'react-dom/client';
-import { Provider } from 'react-redux';
-import { store } from './app/store';
-import App from './App';
-import reportWebVitals from './reportWebVitals';
-import './index.css';
+import React from "react";
+import { createRoot } from "react-dom/client";
+import { Provider } from "react-redux";
+import { createBrowserRouter, RouterProvider } from "react-router-dom";
+import { store } from "../src/app/redux/store";
+import App from "./App";
+import PageLayout from "./app/components/layout/page-layout/PageLayout";
+import { ToeicSplashCardPage } from "./app/pages/toeic/ToeicSplashCardPage";
+import "./index.css";
+import reportWebVitals from "./reportWebVitals";
 
-const container = document.getElementById('root')!;
+const router = createBrowserRouter([
+  {
+    path: "/",
+    element: <App />,
+  },
+  {
+    path: "/toeic",
+    element: <ToeicSplashCardPage />,
+  },
+]);
+const container = document.getElementById("root")!;
 const root = createRoot(container);
 
 root.render(
   <React.StrictMode>
     <Provider store={store}>
-      <App />
+      <PageLayout>
+        <RouterProvider router={router} />
+      </PageLayout>
     </Provider>
   </React.StrictMode>
 );

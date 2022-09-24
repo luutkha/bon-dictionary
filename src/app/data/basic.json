@@ -1,0 +1,2262 @@
+[
+  { "eng": "a (det)", "spelling": "/eɪ/", "vie": "một, nào đó" },
+  { "eng": "about (adv)", "spelling": "/əˈbaʊt/", "vie": "khoảng" },
+  { "eng": "above (prep)", "spelling": "/əˈbʌv/", "vie": "ở bên trên" },
+  { "eng": "across (adv)", "spelling": "/əˈkrɑːs/", "vie": "ngang, ngang qua" },
+  {
+    "eng": "act (v)",
+    "spelling": "/ækt/",
+    "vie": "đóng vai (kịch, chèo, tuồng, phim), giả vờ"
+  },
+  {
+    "eng": "active (adj)",
+    "spelling": "/ˈæk.tɪv/",
+    "vie": "tích cực, nhanh nhẹn, linh lợi"
+  },
+  { "eng": "activity (n)", "spelling": "/ækˈtɪv.ə.t̬i/", "vie": "hoạt động" },
+  { "eng": "add (v)", "spelling": "/æd/", "vie": "thêm vào, làm tăng thêm" },
+  { "eng": "afraid (adj)", "spelling": "/əˈfreɪd/", "vie": "sợ hãi, hoảng sợ" },
+  {
+    "eng": "after (prep)",
+    "spelling": "/ˈæf.tɚ/",
+    "vie": "(thời gian) sau, sau khi"
+  },
+  { "eng": "(vị trí) ở đằng sau\r" },
+  { "eng": "again (adv)", "spelling": "/əˈɡen/", "vie": "lại, lần nữa, nữa" },
+  { "eng": "age (n)", "spelling": "/eɪdʒ/", "vie": "tuổi" },
+  {
+    "eng": "ago (adv)",
+    "spelling": "/əˈɡoʊ/",
+    "vie": "(thời gian) trước đây, về trước"
+  },
+  { "eng": "agree (v)", "spelling": "/əˈɡriː/", "vie": "đồng ý, tán thành" },
+  { "eng": "air (n)", "spelling": "/er/", "vie": "không khí" },
+  {
+    "eng": "all (adj)",
+    "spelling": "/ɑːl/",
+    "vie": "tất cả, hết thảy, toàn bộ"
+  },
+  {
+    "eng": "alone (adj)",
+    "spelling": "/əˈloʊn/",
+    "vie": "một mình, cô đơn, cô độc"
+  },
+  {
+    "eng": "along (adv)",
+    "spelling": "/əˈlɑːŋ/",
+    "vie": "theo chiều dài, suốt theo"
+  },
+  {
+    "eng": "already (adv)",
+    "spelling": "/ɑːlˈred.i/",
+    "vie": "đã, rồi; đã…rồi"
+  },
+  {
+    "eng": "always (adv)",
+    "spelling": "/ˈɑːl.weɪz/",
+    "vie": "luôn luôn, lúc nào cũng, thường xuyên"
+  },
+  { "eng": "am (v)", "spelling": "/æm/\r" },
+  { "eng": "/əm/", "spelling": "thì, là\r" },
+  { "eng": "amount (n)", "spelling": "/əˈmaʊnt/", "vie": "lượng, số lượng" },
+  { "eng": "an (det)", "spelling": "/æn/\r" },
+  { "eng": "/ən/", "spelling": "một\r" },
+  { "eng": "and (conj)", "spelling": "/ænd/\r" },
+  { "eng": "/ənd/", "spelling": "và\r" },
+  { "eng": "angry (adj)", "spelling": "/ˈæŋ.ɡri/", "vie": "tức giận, giận dữ" },
+  {
+    "eng": "another (adj)",
+    "spelling": "/əˈnʌð.ɚ/",
+    "vie": "nữa, thêm nữa, khác"
+  },
+  { "eng": "answer (n)", "spelling": "/ˈæn.sɚ/", "vie": "câu trả lời" },
+  {
+    "eng": "any (adj)",
+    "spelling": "/ˈen.i/",
+    "vie": "một (người, vật) bất kỳ"
+  },
+  {
+    "eng": "anyone (pron)",
+    "spelling": "/ˈen.i.wʌn/",
+    "vie": "người nào đó, ai đó bất kỳ"
+  },
+  {
+    "eng": "anything (pron)",
+    "spelling": "/ˈen.i.θɪŋ/",
+    "vie": "vật nào đó, bất kỳ cái gì"
+  },
+  {
+    "eng": "anytime (adv)",
+    "spelling": "/ˈen.i.taɪm/",
+    "vie": "bất kỳ lúc nào"
+  },
+  { "eng": "appear (v)", "spelling": "/əˈpɪr/", "vie": "xuất hiện" },
+  { "eng": "apple (n)", "spelling": "/ˈæp.əl/", "vie": "quả táo" },
+  { "eng": "are (v)", "spelling": "/ɑːr/\r" },
+  { "eng": "/ɚ/", "spelling": "là (dùng cho ngôi thứ ba số nhiều)\r" },
+  {
+    "eng": "area (n)",
+    "spelling": "/ˈer.i.ə/",
+    "vie": "khu vực, lĩnh vực, phạm vi, diện tích"
+  },
+  { "eng": "arm (n)", "spelling": "/ɑːrm/", "vie": "cánh tay" },
+  { "eng": "army (n)", "spelling": "/ˈɑːr.mi/", "vie": "quân đội" },
+  {
+    "eng": "around (prep)",
+    "spelling": "/əˈraʊnd/",
+    "vie": "xung quanh, vòng quanh; khoảng chừng"
+  },
+  { "eng": "arrive (v)", "spelling": "/əˈraɪv/", "vie": "đi đến, đến nơi" },
+  { "eng": "art (n)", "spelling": "/ɑːrt/", "vie": "nghệ thuật" },
+  { "eng": "as (adv)", "spelling": "/æz/\r" },
+  { "eng": "/əz/", "spelling": "cũng, ngang bằng, tương tự\r" },
+  { "eng": "ask (v)", "spelling": "/æsk/", "vie": "hỏi, đặt câu hỏi" },
+  { "eng": "at (prep)", "spelling": "/æt/\r" },
+  { "eng": "/ət/", "spelling": "ở tại (vị trí)\r" },
+  { "eng": "attack (v)", "spelling": "/əˈtæk/", "vie": "tấn công" },
+  {
+    "eng": "aunt (n)",
+    "spelling": "/ænt/",
+    "vie": "cô, dì, thím, mợ, bác gái"
+  },
+  { "eng": "autumn (n)", "spelling": "/ˈɑː.t̬əm/", "vie": "mùa thu" },
+  { "eng": "away (adv)", "spelling": "/əˈweɪ/", "vie": "rời xa, ra xa" },
+  { "eng": "baby (n)", "spelling": "/ˈbeɪ.bi/", "vie": "em bé" },
+  { "eng": "back (n)", "spelling": "/bæk/", "vie": "(bộ phận cơ thể) lưng" },
+  { "eng": "bad (adj)", "spelling": "/bæd/", "vie": "tồi tệ, xấu, không tốt" },
+  { "eng": "bag (n)", "spelling": "/bæɡ/", "vie": "túi đựng" },
+  { "eng": "ball (n)", "spelling": "/bɑːl/", "vie": "quả bóng" },
+  { "eng": "bank (n)", "spelling": "/bæŋk/", "vie": "ngân hàng" },
+  { "eng": "base (n)", "spelling": "/beɪs/", "vie": "đáy, cơ sở, nền tảng" },
+  { "eng": "basket (n)", "spelling": "/ˈbæs.kət/", "vie": "cái rổ, cái giỏ" },
+  { "eng": "bath (n)", "spelling": "/bæθ/", "vie": "bồn tắm, chậu tắm" },
+  { "eng": "be (v)", "spelling": "/biː/\r" },
+  { "eng": "/bi/\r" },
+  { "eng": "/bɪ/", "spelling": "thì, là\r" },
+  { "eng": "bean (n)", "spelling": "/biːn/", "vie": "hạt đậu" },
+  { "eng": "bear (n, v)", "spelling": "/ber/", "vie": "con gấu; chịu đựng" },
+  { "eng": "beautiful (adj)", "spelling": "/ˈbjuː.t̬ə.fəl/", "vie": "xinh đẹp" },
+  { "eng": "bed (n)", "spelling": "/bed/", "vie": "cái giường" },
+  { "eng": "bedroom (n)", "spelling": "/ˈbed.ruːm/\r" },
+  { "eng": "/ˈbed.rʊm/", "spelling": "phòng ngủ\r" },
+  { "eng": "beer (n)", "spelling": "/bɪr/", "vie": "rượu bia" },
+  { "eng": "behave (v)", "spelling": "/bɪˈheɪv/", "vie": "đối xử, cư xử" },
+  {
+    "eng": "before (adv)",
+    "spelling": "/bɪˈfɔːr/",
+    "vie": "(thời gian) trước đây, hồi trước"
+  },
+  { "eng": "(vị trí) đằng trước\r" },
+  { "eng": "begin (v)", "spelling": "/bɪˈɡɪn/", "vie": "bắt đầu" },
+  {
+    "eng": "behind (adv)",
+    "spelling": "/bɪˈhaɪnd/",
+    "vie": "(vị trí) đằng sau, phía sau"
+  },
+  { "eng": "(thời gian) chậm trễ\r" },
+  { "eng": "bell (n)", "spelling": "/bel/", "vie": "cái chuông" },
+  { "eng": "below (prep)", "spelling": "/bɪˈloʊ/", "vie": "ở dưới, thấp hơn" },
+  {
+    "eng": "besides (adv)",
+    "spelling": "/bɪˈsaɪdz/",
+    "vie": "ngoài ra, hơn nữa, vả lại"
+  },
+  {
+    "eng": "best (adj)",
+    "spelling": "/best/",
+    "vie": "(so sánh) tốt nhất, chất lượng nhất, đẹp nhất"
+  },
+  {
+    "eng": "better (adj)",
+    "spelling": "/ˈbet̬.ɚ/",
+    "vie": "(so sánh) tốt hơn, chất lượng hơn, đẹp hơn"
+  },
+  { "eng": "between (prep)", "spelling": "/bɪˈtwiːn/", "vie": "ở giữa" },
+  { "eng": "big (adj)", "spelling": "/bɪɡ/", "vie": "kích thước lớn, to" },
+  { "eng": "bird (n)", "spelling": "/bɝːd/", "vie": "con chim" },
+  { "eng": "birth (n)", "spelling": "/bɝːθ/", "vie": "sự ra đời, sự sinh đẻ" },
+  { "eng": "birthday (n)", "spelling": "/ˈbɝːθ.deɪ/", "vie": "sinh nhật" },
+  { "eng": "bit (n)", "spelling": "/bɪt/", "vie": "miếng, mẩu, một chút" },
+  { "eng": "bite (v)", "spelling": "/baɪt/", "vie": "cắn" },
+  { "eng": "black (adj)", "spelling": "/blæk/", "vie": "(màu sắc) đen" },
+  { "eng": "bleed (v)", "spelling": "/bliːd/", "vie": "chảy máu" },
+  { "eng": "block (n)", "spelling": "/blɑːk/", "vie": "khối, tảng" },
+  { "eng": "blood (n)", "spelling": "/blʌd/", "vie": "máu" },
+  { "eng": "blow (v)", "spelling": "/bloʊ/", "vie": "thổi, hà hơi" },
+  {
+    "eng": "blue (n)",
+    "spelling": "/bluː/",
+    "vie": "(màu sắc) xanh dương, xanh nước biển"
+  },
+  { "eng": "board (n)", "spelling": "/bɔːrd/", "vie": "cái bảng" },
+  { "eng": "boat (n)", "spelling": "/boʊt/", "vie": "tàu thuyền" },
+  { "eng": "body (n)", "spelling": "/ˈbɑː.di/", "vie": "cơ thể, thân thể" },
+  { "eng": "boil (v)", "spelling": "/bɔɪl/", "vie": "sôi, đun sôi, luộc" },
+  { "eng": "bone (n)", "spelling": "/boʊn/", "vie": "xương" },
+  { "eng": "book (n)", "spelling": "/bʊk/", "vie": "cuốn sách" },
+  {
+    "eng": "border (n)",
+    "spelling": "/ˈbɔːr.dɚ/",
+    "vie": "ranh giới, biên giới"
+  },
+  { "eng": "born (v)", "spelling": "/bɔːrn/", "vie": "(quá khử) sinh đẻ" },
+  { "eng": "borrow (v)", "spelling": "/ˈbɑːr.oʊ/", "vie": "vay, mượn" },
+  { "eng": "both (adj)", "spelling": "/boʊθ/", "vie": "cả hai" },
+  { "eng": "bottle (n)", "spelling": "/ˈbɑː.t̬əl/", "vie": "chai, lọ" },
+  { "eng": "bottom (n)", "spelling": "/ˈbɑː.t̬əm/", "vie": "phần đáy" },
+  { "eng": "bowl (n)", "spelling": "/boʊl/", "vie": "cái tô, bát" },
+  { "eng": "box (n)", "spelling": "/bɑːks/", "vie": "hộp, thùng đựng" },
+  { "eng": "boy (n)", "spelling": "/bɔɪ/", "vie": "cậu bé, chú bé, bé trai" },
+  {
+    "eng": "branch (n)",
+    "spelling": "/bræntʃ/",
+    "vie": "cành cây, nhánh, chi nhánh"
+  },
+  { "eng": "brave (adj)", "spelling": "/breɪv/", "vie": "dũng cảm" },
+  { "eng": "bread (n)", "spelling": "/bred/", "vie": "bánh mỳ" },
+  { "eng": "break (v)", "spelling": "/breɪk/", "vie": "làm vỡ, làm gãy" },
+  { "eng": "breakfast (n)", "spelling": "/ˈbrek.fəst/", "vie": "bữa sáng" },
+  { "eng": "breathe (v)", "spelling": "/briːð/", "vie": "hít thở" },
+  { "eng": "bridge (n)", "spelling": "/brɪdʒ/", "vie": "cái cầu" },
+  {
+    "eng": "bright (adj)",
+    "spelling": "/braɪt/",
+    "vie": "sáng sủa, tươi sáng"
+  },
+  { "eng": "bring (v)", "spelling": "/brɪŋ/", "vie": "mang lại, mang đến" },
+  { "eng": "brother (n)", "spelling": "/ˈbrʌð.ɚ/", "vie": "anh, em trai" },
+  { "eng": "brown (n)", "spelling": "/braʊn/", "vie": "(màu sắc) nâu" },
+  { "eng": "brush (n)", "spelling": "/brʌʃ/", "vie": "cái lược, bàn chải" },
+  { "eng": "build (v)", "spelling": "/bɪld/", "vie": "xây dựng" },
+  {
+    "eng": "burn (v)",
+    "spelling": "/bɝːn/",
+    "vie": "đốt cháy, thiêu, thắp lửa"
+  },
+  {
+    "eng": "business (n)",
+    "spelling": "/ˈbɪz.nɪs/",
+    "vie": "hoạt động buôn bán, kinh doanh"
+  },
+  { "eng": "bus (n)", "spelling": "/bʌs/", "vie": "xe buýt" },
+  { "eng": "busy (adj)", "spelling": "/ˈbɪz.i/", "vie": "bận rộn" },
+  { "eng": "but (conj)", "spelling": "/bʌt/\r" },
+  { "eng": "/bət/", "spelling": "nhưng, nhưng mà\r" },
+  { "eng": "buy (v)", "spelling": "/baɪ/", "vie": "mua" },
+  { "eng": "by (prep)", "spelling": "/baɪ/", "vie": "gần, cạnh, kế bên" },
+  { "eng": "cake (n)", "spelling": "/keɪk/", "vie": "bánh kem" },
+  { "eng": "call (n, v)", "spelling": "/kɑːl/", "vie": "cuộc gọi; kêu gọi" },
+  { "eng": "can (modal verb)", "spelling": "/kæn/\r" },
+  { "eng": "/kən/", "spelling": "có thể, có khả năng\r" },
+  { "eng": "candle (n)", "spelling": "/ˈkæn.dəl/", "vie": "nến" },
+  { "eng": "cap (n)", "spelling": "/kæp/", "vie": "mũ lưỡi trai" },
+  { "eng": "car (n)", "spelling": "/kɑːr/", "vie": "xe ô tô" },
+  { "eng": "card (n)", "spelling": "/kɑːrd/", "vie": "tấm thẻ, thiệp" },
+  { "eng": "care (n)", "spelling": "/ker/", "vie": "sự quan tâm, bảo vệ" },
+  { "eng": "careful (adj)", "spelling": "/ˈker.fəl/", "vie": "cẩn thận" },
+  {
+    "eng": "careless (adj)",
+    "spelling": "/ˈker.ləs/",
+    "vie": "lỡ đễnh, cẩu thả, bất cẩn"
+  },
+  { "eng": "carry (v)", "spelling": "/ˈker.i/", "vie": "mang, vác, đem theo" },
+  { "eng": "case (n)", "spelling": "/keɪs/", "vie": "trường hợp, tình huống" },
+  { "eng": "cat (n)", "spelling": "/kæt/", "vie": "con mèo" },
+  { "eng": "catch (v)", "spelling": "/kætʃ/", "vie": "bắt lấy, nắm lấy" },
+  {
+    "eng": "central (adj)",
+    "spelling": "/ˈsen.trəl/",
+    "vie": "ở giữa, trung tâm"
+  },
+  { "eng": "century (n)", "spelling": "/ˈsen.tʃər.i/", "vie": "thế kỷ" },
+  {
+    "eng": "certain (adj)",
+    "spelling": "/ˈsɝː.tən/",
+    "vie": "chắc chắn, chắc nịch"
+  },
+  { "eng": "chair (n)", "spelling": "/tʃer/", "vie": "cái ghế" },
+  { "eng": "chance (n)", "spelling": "/tʃæns/", "vie": "cơ hội" },
+  {
+    "eng": "change (n, v)",
+    "spelling": "/tʃeɪndʒ/",
+    "vie": "sự thay đổi; thay đổi"
+  },
+  { "eng": "chase (v)", "spelling": "/tʃeɪs/", "vie": "theo đuổi" },
+  { "eng": "cheap (adj)", "spelling": "/tʃiːp/", "vie": "rẻ" },
+  { "eng": "cheese (n)", "spelling": "/tʃiːz/", "vie": "phó mát" },
+  { "eng": "chicken (n)", "spelling": "/ˈtʃɪk.ɪn/", "vie": "con gà" },
+  { "eng": "child (n)", "spelling": "/tʃaɪld/", "vie": "đứa trẻ, con" },
+  {
+    "eng": "children (n)",
+    "spelling": "/ˈtʃɪl.drən/",
+    "vie": "những đứa trẻ, những đứa con"
+  },
+  { "eng": "chocolate (n)", "spelling": "/ˈtʃɑːk.lət/", "vie": "sô cô la" },
+  { "eng": "choice (n)", "spelling": "/tʃɔɪs/", "vie": "lựa chọn" },
+  { "eng": "choose (v)", "spelling": "/tʃuːz/", "vie": "chọn, lựa" },
+  {
+    "eng": "circle (n)",
+    "spelling": "/ˈsɝː.kəl/",
+    "vie": "vòng tròn, đường tròn"
+  },
+  { "eng": "city (n)", "spelling": "/ˈsɪt̬.i/", "vie": "thành phố" },
+  { "eng": "class (n)", "spelling": "/klæs/", "vie": "lớp học" },
+  {
+    "eng": "clever (adj)",
+    "spelling": "/ˈklev.ɚ/",
+    "vie": "thông minh, nhanh trí"
+  },
+  { "eng": "clean (adj)", "spelling": "/kliːn/", "vie": "sạch sẽ" },
+  { "eng": "clear (adj)", "spelling": "/klɪr/", "vie": "rõ ràng, minh bạch" },
+  { "eng": "climb (v)", "spelling": "/klaɪm/", "vie": "leo trèo" },
+  { "eng": "clock (n)", "spelling": "/klɑːk/", "vie": "đồng hồ" },
+  { "eng": "cloth (n)", "spelling": "/klɑːθ/", "vie": "miếng vải" },
+  { "eng": "clothes (n)", "spelling": "/kloʊðz/", "vie": "quần áo" },
+  { "eng": "cloud (n)", "spelling": "/klaʊd/", "vie": "đám mây" },
+  { "eng": "cloudy (adj)", "spelling": "/ˈklaʊ.di/", "vie": "u ám, có mây mù" },
+  { "eng": "close (v)", "spelling": "/kloʊz/", "vie": "đóng, kết thúc" },
+  { "eng": "coffee (n)", "spelling": "/ˈkɑː.fi/", "vie": "cà phê" },
+  {
+    "eng": "coat (n)",
+    "spelling": "/koʊt/",
+    "vie": "áo choàng ngoài, áo khoác"
+  },
+  { "eng": "coin (n)", "spelling": "/kɔɪn/", "vie": "đồng xu" },
+  { "eng": "cold (adj)", "spelling": "/koʊld/", "vie": "lạnh lẽo" },
+  { "eng": "collect (v)", "spelling": "/kəˈlekt/", "vie": "sưu tầm" },
+  { "eng": "colour (n)", "spelling": "/ˈkʌl.ɚ/", "vie": "màu sắc" },
+  { "eng": "comb (n)", "spelling": "/koʊm/", "vie": "cái lược chải đầu" },
+  {
+    "eng": "comfortable (adj)",
+    "spelling": "/ˈkʌm.fɚ.t̬ə.bəl/",
+    "vie": "thoải mái, dễ chịu"
+  },
+  { "eng": "common (adj)", "spelling": "/ˈkɑː.mən/", "vie": "phổ biến" },
+  {
+    "eng": "compare (v)",
+    "spelling": "/kəmˈper/",
+    "vie": "so sánh, đối chiếu"
+  },
+  { "eng": "come (v)", "spelling": "/kʌm/", "vie": "đến, tiến đến, đi cùng" },
+  {
+    "eng": "complete (v)",
+    "spelling": "/kəmˈpliːt/",
+    "vie": "hoàn thành, làm xong"
+  },
+  { "eng": "computer (n)", "spelling": "/kəmˈpjuː.t̬ɚ/", "vie": "máy vi tính" },
+  {
+    "eng": "condition (n)",
+    "spelling": "/kənˈdɪʃ.ən/",
+    "vie": "điều kiện, trạng thái"
+  },
+  {
+    "eng": "continue (v)",
+    "spelling": "/kənˈtɪn.juː/",
+    "vie": "tiếp tục, duy trì"
+  },
+  { "eng": "control (v)", "spelling": "/kənˈtroʊl/", "vie": "kiểm soát" },
+  { "eng": "cook (v)", "spelling": "/kʊk/", "vie": "nấu ăn, chế biến" },
+  { "eng": "cool (adj)", "spelling": "/kuːl/", "vie": "mát mẻ" },
+  { "eng": "copper (n)", "spelling": "/ˈkɑː.pɚ/", "vie": "kim loại đồng" },
+  { "eng": "corn (n)", "spelling": "/kɔːrn/", "vie": "ngô, bắp" },
+  { "eng": "corner (n)", "spelling": "/ˈkɔːr.nɚ/", "vie": "góc" },
+  { "eng": "correct (adj)", "spelling": "/kəˈrekt/", "vie": "chính xác, đúng" },
+  { "eng": "cost (n)", "spelling": "/kɑːst/", "vie": "giá cả, chi phí" },
+  { "eng": "contain (v)", "spelling": "/kənˈteɪn/", "vie": "chứa, đựng" },
+  { "eng": "count (v)", "spelling": "/kaʊnt/", "vie": "đếm, tính, tính đến" },
+  {
+    "eng": "country (n)",
+    "spelling": "/ˈkʌn.tri/",
+    "vie": "đất nước, quốc gia"
+  },
+  { "eng": "course (n)", "spelling": "/kɔːrs/", "vie": "khóa học" },
+  { "eng": "cover (v)", "spelling": "/ˈkʌv.ɚ/", "vie": "che, đậy" },
+  { "eng": "crash (v)", "spelling": "/kræʃ/", "vie": "đâm vào nhau" },
+  { "eng": "cross (v)", "spelling": "/krɑːs/", "vie": "đi qua, vượt qua" },
+  { "eng": "cry (v)", "spelling": "/kraɪ/", "vie": "khóc lóc" },
+  { "eng": "cup (n)", "spelling": "/kʌp/", "vie": "cốc, chén đựng nước" },
+  { "eng": "cupboard (n)", "spelling": "/ˈkʌb.ɚd/", "vie": "tủ đựng" },
+  { "eng": "cut (n, v)", "spelling": "/kʌt/", "vie": "miếng cắt; cắt, xén" },
+  { "eng": "dance (v)", "spelling": "/dæns/", "vie": "nhảy nhót" },
+  {
+    "eng": "dangerous (adj)",
+    "spelling": "/ˈdeɪn.dʒɚ.əs/",
+    "vie": "nguy hiểm"
+  },
+  { "eng": "dark (adj)", "spelling": "/dɑːrk/", "vie": "tối tăm, đen tối" },
+  {
+    "eng": "daughter (n)",
+    "spelling": "/ˈdɑː.t̬ɚ/",
+    "vie": "(quan hệ với cha mẹ) con gái"
+  },
+  { "eng": "day (n)", "spelling": "/deɪ/", "vie": "ngày" },
+  {
+    "eng": "dead (adj)",
+    "spelling": "/ded/",
+    "vie": "chết, hỏng, không hoạt động"
+  },
+  { "eng": "decide (v)", "spelling": "/dɪˈsaɪd/", "vie": "đưa ra quyết định" },
+  {
+    "eng": "decrease (v)",
+    "spelling": "/ˈdiː.kriːs/",
+    "vie": "giảm bớt, làm giảm đi"
+  },
+  { "eng": "deep (adj)", "spelling": "/diːp/", "vie": "sâu, sâu xa" },
+  { "eng": "deer (n)", "spelling": "/dɪr/", "vie": "con hươu" },
+  {
+    "eng": "depend (v)",
+    "spelling": "/dɪˈpend/",
+    "vie": "phụ thuộc, tùy thuộc vào"
+  },
+  { "eng": "desk (n)", "spelling": "/desk/", "vie": "cái bàn làm việc" },
+  { "eng": "destroy (v)", "spelling": "/dɪˈstrɔɪ/", "vie": "tàn phá, phá hủy" },
+  { "eng": "develop (v)", "spelling": "/dɪˈvel.əp/", "vie": "phát triển" },
+  { "eng": "die (v)", "spelling": "/daɪ/", "vie": "chết, mất, hy sinh" },
+  { "eng": "different (adj)", "spelling": "/ˈdɪf.ɚ.ənt/", "vie": "khác biệt" },
+  {
+    "eng": "difficult (adj)",
+    "spelling": "/ˈdɪf.ə.kəlt/",
+    "vie": "khó khăn, gây khó"
+  },
+  { "eng": "dinner (n)", "spelling": "/ˈdɪn.ɚ/", "vie": "bữa tối" },
+  { "eng": "direction (n)", "spelling": "/dɪˈrek.ʃən/\r" },
+  { "eng": "/daɪˈrek.ʃən/", "spelling": "phương, hướng\r" },
+  { "eng": "dirty (adj)", "spelling": "/ˈdɝː.t̬i/", "vie": "dơ bẩn" },
+  {
+    "eng": "discover (v)",
+    "spelling": "/dɪˈskʌv.ɚ/",
+    "vie": "phát hiện, khám phá ra"
+  },
+  { "eng": "dish (n)", "spelling": "/dɪʃ/", "vie": "cái đĩa" },
+  { "eng": "do (v)", "spelling": "/du/", "vie": "làm, thực hiện" },
+  { "eng": "dog (n)", "spelling": "/dɑːɡ/", "vie": "con chó" },
+  { "eng": "door (n)", "spelling": "/dɔːr/", "vie": "cánh cửa" },
+  { "eng": "double (adj)", "spelling": "/ˈdʌb.əl/", "vie": "gấp đôi" },
+  { "eng": "down (adv)", "spelling": "/daʊn/", "vie": "xuống, phía dưới" },
+  { "eng": "draw (v)", "spelling": "/drɑː/", "vie": "vẽ" },
+  { "eng": "dream (n)", "spelling": "/driːm/", "vie": "giấc mơ, mộng" },
+  { "eng": "dress (n)", "spelling": "/dres/", "vie": "cái váy" },
+  { "eng": "drink (n)", "spelling": "/drɪŋk/", "vie": "đồ uống, thức uống" },
+  { "eng": "drive (v)", "spelling": "/draɪv/", "vie": "lái xe" },
+  { "eng": "drop (v)", "spelling": "/drɑːp/", "vie": "rơi, rớt" },
+  { "eng": "dry (adj)", "spelling": "/draɪ/", "vie": "khô ráo" },
+  { "eng": "duck (n)", "spelling": "/dʌk/", "vie": "con vịt" },
+  { "eng": "dust (n)", "spelling": "/dʌst/", "vie": "bụi" },
+  { "eng": "duty (n)", "spelling": "/ˈduː.t̬i/", "vie": "nghĩa vụ, bổn phận" },
+  { "eng": "each (pron)", "spelling": "/iːtʃ/", "vie": "mỗi người, mỗi cái" },
+  { "eng": "ear (n)", "spelling": "/ɪr/", "vie": "cái tai" },
+  { "eng": "early (adj)", "spelling": "/ˈɝː.li/", "vie": "sớm, ban đầu" },
+  {
+    "eng": "earn (v)",
+    "spelling": "/ɝːn/",
+    "vie": "kiếm tiền, giành được (phần thưởng)"
+  },
+  { "eng": "earth (n)", "spelling": "/ɝːθ/", "vie": "trái đất" },
+  { "eng": "east (n)", "spelling": "/iːst/", "vie": "phía Đông" },
+  { "eng": "easy (adj)", "spelling": "/ˈiː.zi/", "vie": "dễ dàng" },
+  { "eng": "eat (v)", "spelling": "/iːt/", "vie": "ăn" },
+  {
+    "eng": "education (n)",
+    "spelling": "/ˌedʒ.əˈkeɪ.ʃən/",
+    "vie": "sự giáo dục, nền giáo dục"
+  },
+  {
+    "eng": "effect (n)",
+    "spelling": "/əˈfekt/",
+    "vie": "sự ảnh hưởng, sự tác động"
+  },
+  { "eng": "egg (n)", "spelling": "/eɡ/", "vie": "quả trứng" },
+  { "eng": "eight (n)", "spelling": "/eɪt/", "vie": "số 8" },
+  { "eng": "either (adv)", "spelling": "/ˈiː.ðɚ/\r" },
+  { "eng": "/ˈaɪ.ðɚ", "spelling": "(trong câu phủ định) cũng thế\r" },
+  {
+    "eng": "electric (adj)",
+    "spelling": "/iˈlek.trɪk/",
+    "vie": "có điện, phát điện"
+  },
+  { "eng": "elephant (n)", "spelling": "/ˈel.ə.fənt/", "vie": "con voi" },
+  { "eng": "else (adv)", "spelling": "/els/", "vie": "khác, nữa" },
+  { "eng": "empty (adj)", "spelling": "/ˈemp.ti/", "vie": "trống, rỗng" },
+  { "eng": "end (n)", "spelling": "/end/", "vie": "giới hạn, sự kết thúc" },
+  { "eng": "enemy (n)", "spelling": "/ˈen.ə.mi/", "vie": "kẻ thủ, kẻ địch" },
+  { "eng": "enjoy (v)", "spelling": "/ɪnˈdʒɔɪ/", "vie": "tận hưởng" },
+  { "eng": "enough (adj)", "spelling": "/əˈnʌf/", "vie": "đủ, đủ dùng" },
+  { "eng": "enter (v)", "spelling": "/ˈen.t̬ɚ/", "vie": "đi vào, tham gia" },
+  {
+    "eng": "equal (adj)",
+    "spelling": "/ˈiː.kwəl/",
+    "vie": "ngang bằng, bình đẳng"
+  },
+  {
+    "eng": "entrance (n)",
+    "spelling": "/ˈen.trəns/",
+    "vie": "sự đi vào, tiến vào"
+  },
+  { "eng": "escape (v)", "spelling": "/ɪˈskeɪp/", "vie": "tẩu thoát" },
+  {
+    "eng": "even (adj)",
+    "spelling": "/ˈiː.vən/",
+    "vie": "ngang bằng, bằng phẳng"
+  },
+  { "eng": "evening (n)", "spelling": "/ˈiːv.nɪŋ/", "vie": "buổi chiều tối" },
+  { "eng": "event (n)", "spelling": "/ɪˈvent/", "vie": "sự kiện" },
+  { "eng": "ever (adv)", "spelling": "/ˈev.ɚ/", "vie": "từ trước đến giờ" },
+  { "eng": "every (det)", "spelling": "/ˈev.ri/", "vie": "tất cả" },
+  {
+    "eng": "everyone (pron)",
+    "spelling": "/ˈev.ri.wʌn/",
+    "vie": "tất cả mọi người"
+  },
+  {
+    "eng": "exact (adj)",
+    "spelling": "/ɪɡˈzækt/",
+    "vie": "chính xác, đúng đắn"
+  },
+  {
+    "eng": "everybody (pron)",
+    "spelling": "/ˈev.riˌbɑː.di/",
+    "vie": "tất cả mọi người"
+  },
+  {
+    "eng": "examination (n)",
+    "spelling": "/ɪɡˌzæm.əˈneɪ.ʃən/",
+    "vie": "sự khám xét, kì thi"
+  },
+  { "eng": "example (n)", "spelling": "/ɪɡˈzæm.pəl/", "vie": "ví dụ" },
+  { "eng": "except (prep)", "spelling": "/ɪkˈsept/", "vie": "ngoại trừ" },
+  {
+    "eng": "excited (adj)",
+    "spelling": "/ɪkˈsaɪ.t̬ɪd/",
+    "vie": "phấn khích, hứng thú"
+  },
+  {
+    "eng": "exercise (n)",
+    "spelling": "/ˈek.sɚ.saɪz/",
+    "vie": "hoạt động rèn luyện thân thể"
+  },
+  {
+    "eng": "expect (v)",
+    "spelling": "/ɪkˈspekt/",
+    "vie": "ngóng chờ, chờ đợi"
+  },
+  { "eng": "expensive (adj)", "spelling": "/ɪkˈspen.sɪv/", "vie": "đắt đỏ" },
+  { "eng": "explain (v)", "spelling": "/ɪkˈspleɪn/", "vie": "giải thích" },
+  {
+    "eng": "extremely (adv)",
+    "spelling": "/ɪkˈstriːm.li/",
+    "vie": "vô cùng, cùng cực"
+  },
+  { "eng": "eye (n)", "spelling": "/aɪ/", "vie": "con mắt" },
+  { "eng": "face (n)", "spelling": "/feɪs/", "vie": "gương mặt" },
+  { "eng": "fact (n)", "spelling": "/fækt/", "vie": "sự thật, thực tế" },
+  {
+    "eng": "fail (v)",
+    "spelling": "/feɪl/",
+    "vie": "thất bại, trượt (bài thi)"
+  },
+  { "eng": "fall (v)", "spelling": "/fɑːl/", "vie": "rơi, ngã" },
+  {
+    "eng": "false (adj)",
+    "spelling": "/fɑːls/",
+    "vie": "sai, không đúng, không có thật"
+  },
+  { "eng": "family (n)", "spelling": "/ˈfæm.əl.i/", "vie": "gia đình" },
+  { "eng": "famous (adj)", "spelling": "/ˈfeɪ.məs/", "vie": "nổi tiếng" },
+  { "eng": "far (adv)", "spelling": "/fɑːr/", "vie": "xa" },
+  { "eng": "farm (n)", "spelling": "/fɑːrm/", "vie": "trang trại, đồn điền" },
+  { "eng": "father (n)", "spelling": "/ˈfɑː.ðɚ/", "vie": "cha, bố" },
+  { "eng": "fast (adj)", "spelling": "/fæst/", "vie": "nhanh, mau" },
+  { "eng": "fat (n)", "spelling": "/fæt/", "vie": "béo, thừa cân" },
+  { "eng": "fault (n)", "spelling": "/fɑːlt/", "vie": "lỗi, sai phạm" },
+  { "eng": "fear (n)", "spelling": "/fɪr/", "vie": "nỗi sợ" },
+  { "eng": "feed (v)", "spelling": "/fiːd/", "vie": "cho ăn, bón, đút cho ăn" },
+  { "eng": "feel (v)", "spelling": "/fiːl/", "vie": "cảm giác, cảm nhận" },
+  {
+    "eng": "female (adj)",
+    "spelling": "/ˈfiː.meɪl/",
+    "vie": "giống cái, (thuộc) đàn bà, phụ nữ"
+  },
+  { "eng": "fever (n)", "spelling": "/ˈfiː.vɚ/", "vie": "cơn sốt" },
+  { "eng": "few (det)", "spelling": "/fjuː/", "vie": "một vài, một ít" },
+  { "eng": "fight (v)", "spelling": "/faɪt/", "vie": "ẩu đả, đánh nhau" },
+  { "eng": "fill (v)", "spelling": "/fɪl/", "vie": "đổ đầy" },
+  { "eng": "film (n)", "spelling": "/fɪlm/", "vie": "phim ảnh" },
+  { "eng": "find (v)", "spelling": "/faɪnd/", "vie": "tìm thấy" },
+  { "eng": "fine (adj)", "spelling": "/faɪn/", "vie": "tốt, khỏe mạnh" },
+  { "eng": "finger (n)", "spelling": "/ˈfɪŋ.ɡɚ/", "vie": "ngón tay" },
+  {
+    "eng": "finish (v)",
+    "spelling": "/ˈfɪn.ɪʃ/",
+    "vie": "kết thúc, hoàn thành"
+  },
+  { "eng": "fire (n)", "spelling": "/faɪr/", "vie": "ngọn lửa" },
+  {
+    "eng": "first (det)",
+    "spelling": "/ˈfɝːst/",
+    "vie": "đầu tiên, trước tiên"
+  },
+  { "eng": "fish (n)", "spelling": "/fɪʃ/", "vie": "con cá" },
+  { "eng": "fit (adj)", "spelling": "/fɪt/", "vie": "vừa vặn, khớp" },
+  { "eng": "five (n)", "spelling": "/faɪv/", "vie": "số 5" },
+  { "eng": "fix (v)", "spelling": "/fɪks/", "vie": "sửa chữa" },
+  { "eng": "flag (n)", "spelling": "/flæɡ/", "vie": "lá cờ" },
+  { "eng": "flat (adj)", "spelling": "/flæt/", "vie": "bằng phẳng, bẹt" },
+  { "eng": "float (v)", "spelling": "/floʊt/", "vie": "trôi nổi" },
+  { "eng": "floor (n)", "spelling": "/flɔːr/", "vie": "tầng (nhà)" },
+  { "eng": "flour (n)", "spelling": "/ˈflaʊ.ɚ/", "vie": "bột" },
+  { "eng": "flower (n)", "spelling": "/ˈflaʊ.ɚ/", "vie": "bông hoa" },
+  { "eng": "fly (v)", "spelling": "/flaɪ/", "vie": "bay, đi máy bay" },
+  { "eng": "fold (v)", "spelling": "/foʊld/", "vie": "gấp nếp" },
+  { "eng": "food (n)", "spelling": "/fuːd/", "vie": "đồ ăn, thức ăn" },
+  { "eng": "fool (adj)", "spelling": "/fuːl/", "vie": "ngu ngốc, ngốc nghếch" },
+  { "eng": "foot (n)", "spelling": "/fʊt/", "vie": "bàn chân" },
+  { "eng": "football (n)", "spelling": "/ˈfʊt.bɑːl/", "vie": "môn bóng đá" },
+  { "eng": "for (prep)", "spelling": "/fɔːr/\r" },
+  { "eng": "/fɚ/", "spelling": "dành cho, để cho\r" },
+  { "eng": "force (n)", "spelling": "/fɔːrs/", "vie": "sức mạnh, lực lượng" },
+  {
+    "eng": "foreign (adj)",
+    "spelling": "/ˈfɔːr.ən/",
+    "vie": "(thuộc) nước ngoài, xa lạ"
+  },
+  { "eng": "forest (n)", "spelling": "/ˈfɔːr.ɪst/", "vie": "rừng" },
+  { "eng": "forget (v)", "spelling": "/fɚˈɡet/", "vie": "lãng quên" },
+  { "eng": "forgive (v)", "spelling": "/fɚˈɡɪv/", "vie": "tha thứ" },
+  { "eng": "fork (n)", "spelling": "/fɔːrk/", "vie": "cái dĩa, nĩa" },
+  {
+    "eng": "form (v)",
+    "spelling": "/fɔːrm/",
+    "vie": "tạo thành, cấu thành, hình thành"
+  },
+  { "eng": "fox (n)", "spelling": "/fɑːks/", "vie": "con cáo" },
+  { "eng": "four (n)", "spelling": "/fɔːr/", "vie": "số 4" },
+  { "eng": "free (adj)", "spelling": "/friː/", "vie": "tự do" },
+  { "eng": "freedom (n)", "spelling": "/ˈfriː.dəm/", "vie": "sự tự do" },
+  { "eng": "freeze (v)", "spelling": "/friːz/", "vie": "làm đông cứng" },
+  {
+    "eng": "fresh (adj)",
+    "spelling": "/freʃ/",
+    "vie": "tươi sạch, trong lành"
+  },
+  { "eng": "friend (n)", "spelling": "/frend/", "vie": "bạn bè" },
+  {
+    "eng": "friendly (adj)",
+    "spelling": "/ˈfrend.li/",
+    "vie": "thân thiện, dễ gần"
+  },
+  { "eng": "from (prep)", "spelling": "/frɑːm/", "vie": "(vị trí) từ" },
+  { "eng": "front (n)", "spelling": "/frʌnt/", "vie": "phía trước, mặt trước" },
+  { "eng": "fruit (n)", "spelling": "/fruːt/", "vie": "quả, trái cây" },
+  { "eng": "full (adj)", "spelling": "/fʊl/", "vie": "chật ních, đủ" },
+  { "eng": "fun (n)", "spelling": "/fʌn/", "vie": "sự vui đùa, vui thích" },
+  {
+    "eng": "funny (adj)",
+    "spelling": "/ˈfʌn.i/",
+    "vie": "buồn cười, khôi hài"
+  },
+  {
+    "eng": "furniture (n)",
+    "spelling": "/ˈfɝː.nɪ.tʃɚ/",
+    "vie": "đồ đạc, đồ gia dụng"
+  },
+  {
+    "eng": "further (adv)",
+    "spelling": "/ˈfɝː.ðɚ/",
+    "vie": "xa hơn, cụ thể hơn"
+  },
+  { "eng": "future (n)", "spelling": "/ˈfjuː.tʃɚ/", "vie": "tương lai" },
+  { "eng": "game (n)", "spelling": "/ɡeɪm/", "vie": "trò chơi" },
+  { "eng": "garden (n)", "spelling": "/ˈɡɑːr.dən/", "vie": "khu vườn" },
+  { "eng": "gate (n)", "spelling": "/ɡeɪt/", "vie": "cánh cổng" },
+  {
+    "eng": "general (adj)",
+    "spelling": "/ˈdʒen.ər.əl/",
+    "vie": "chung chung, nói chung"
+  },
+  {
+    "eng": "gentleman (n)",
+    "spelling": "/ˈdʒen.t̬əl.mən/",
+    "vie": "quý ông, ngài"
+  },
+  { "eng": "get (v)", "spelling": "/ɡet/", "vie": "lấy, đạt được, có được" },
+  { "eng": "gift (n)", "spelling": "/ɡɪft/", "vie": "món quà, quà tặng" },
+  { "eng": "give (v)", "spelling": "/ɡɪv/", "vie": "cho, biếu, tặng" },
+  { "eng": "glad (adj)", "spelling": "/ɡlæd/", "vie": "vui sướng, vui mừng" },
+  { "eng": "glass (n)", "spelling": "/ɡlæs/", "vie": "kính, thủy tinh" },
+  { "eng": "go (v)", "spelling": "/ɡoʊ/", "vie": "đi, đi đến, đi tới" },
+  { "eng": "goat (n)", "spelling": "/ɡoʊt/", "vie": "con dê" },
+  { "eng": "god (n)", "spelling": "/ɡɑːd/", "vie": "thần" },
+  { "eng": "gold (n)", "spelling": "/ɡoʊld/", "vie": "kim loại vàng" },
+  { "eng": "good (adj)", "spelling": "/ɡʊd/", "vie": "tốt, hay, khỏe" },
+  { "eng": "goodbye (n)", "spelling": "/ɡʊdˈbaɪ/", "vie": "lời tạm biệt" },
+  {
+    "eng": "grandfather (n)",
+    "spelling": "/ˈɡræn.fɑː.ðɚ/",
+    "vie": "ông nội, ông ngoại"
+  },
+  {
+    "eng": "grandmother (n)",
+    "spelling": "/ˈɡræn.mʌð.ɚ/",
+    "vie": "bà nội, bà ngoại"
+  },
+  { "eng": "grass (n)", "spelling": "/ɡræs/", "vie": "cỏ" },
+  { "eng": "grave (n)", "spelling": "/ɡreɪv/", "vie": "mộ, phần mộ" },
+  { "eng": "great (adj)", "spelling": "/ɡreɪt/", "vie": "lớn, to lớn, vĩ đại" },
+  {
+    "eng": "green (n)",
+    "spelling": "/ɡriːn/",
+    "vie": "(màu sắc) xanh lam, xanh lá cây"
+  },
+  { "eng": "gray (n)", "spelling": "/ɡreɪ/", "vie": "(màu sắc) xám" },
+  { "eng": "ground (n)", "spelling": "/ɡraʊnd/", "vie": "mặt đất, đất" },
+  { "eng": "group (n)", "spelling": "/ɡruːp/", "vie": "nhóm" },
+  {
+    "eng": "grow (v)",
+    "spelling": "/ɡroʊ/",
+    "vie": "mọc lên, đâm chồi, lớn lên"
+  },
+  { "eng": "gun (n)", "spelling": "/ɡʌn/", "vie": "súng" },
+  { "eng": "hair (n)", "spelling": "/her/", "vie": "tóc" },
+  { "eng": "half (n)", "spelling": "/hæf/", "vie": "phân nửa, một nửa" },
+  {
+    "eng": "hall (n)",
+    "spelling": "/hɑːl/",
+    "vie": "phòng lớn, đại sảnh, phòng đợi"
+  },
+  { "eng": "hammer (n)", "spelling": "/ˈhæm.ɚ/", "vie": "cái búa" },
+  { "eng": "hand (n)", "spelling": "/hænd/", "vie": "bàn tay" },
+  { "eng": "happen (v)", "spelling": "/ˈhæp.ən/", "vie": "xảy ra, diễn ra" },
+  { "eng": "happy (adj)", "spelling": "/ˈhæp.i/", "vie": "vui vẻ" },
+  { "eng": "hard (adj)", "spelling": "/hɑːrd/", "vie": "cứng, chắc, rắn" },
+  { "eng": "hat (n)", "spelling": "/hæt/", "vie": "cái mũ" },
+  { "eng": "hate (v)", "spelling": "/heɪt/", "vie": "ghét, bài xích" },
+  { "eng": "have (v)", "spelling": "/hæv/", "vie": "có, sở hữu" },
+  { "eng": "he (pron)", "spelling": "/hiː/\r" },
+  { "eng": "/hi/", "spelling": "anh ấy, ông ấy\r" },
+  { "eng": "head (n)", "spelling": "/hed/", "vie": "cái đầu, phần đầu" },
+  {
+    "eng": "healthy (adj)",
+    "spelling": "/ˈhel.θi/",
+    "vie": "mạnh khỏe, tươi tốt"
+  },
+  { "eng": "hear (v)", "spelling": "/hɪr/", "vie": "lắng nghe" },
+  { "eng": "heavy (adj)", "spelling": "/ˈhev.i/", "vie": "nặng" },
+  { "eng": "heart (n)", "spelling": "/hɑːrt/", "vie": "trái tim" },
+  { "eng": "heaven (n)", "spelling": "/ˈhev.ən/", "vie": "thiên đường" },
+  { "eng": "height (n)", "spelling": "/haɪt/", "vie": "chiều cao" },
+  { "eng": "hello (exclamation)", "spelling": "/heˈloʊ/", "vie": "xin chào" },
+  { "eng": "help (v)", "spelling": "/help/", "vie": "giúp đỡ" },
+  { "eng": "hen (n)", "spelling": "/hen/", "vie": "con gà mái" },
+  { "eng": "her (pron)", "spelling": "/hɝː/\r" },
+  { "eng": "/hɚ/", "spelling": "cô ấy, bà ấy, chị ấy\r" },
+  { "eng": "here (adv)", "spelling": "/hɪr/", "vie": "tại đây, ở đây" },
+  {
+    "eng": "hers (pron)",
+    "spelling": "/hɝːz",
+    "vie": "(sở hữu) của cô ấy, của chị ấy"
+  },
+  { "eng": "hide (v)", "spelling": "/haɪd/", "vie": "trốn tránh" },
+  { "eng": "high (adj)", "spelling": "/haɪ/", "vie": "cao" },
+  { "eng": "hill (n)", "spelling": "/hɪl/", "vie": "đồi, mô đất" },
+  { "eng": "him (pron)", "spelling": "/hɪm/", "vie": "hắn, ông ấy, anh ấy" },
+  { "eng": "his (det)", "spelling": "/hɪz/\r" },
+  { "eng": "/ɪz/", "spelling": "(sở hữu) của anh ấy, của ông ấy\r" },
+  { "eng": "hit (v)", "spelling": "/hɪt/", "vie": "đánh, đập" },
+  { "eng": "hobby (n)", "spelling": "/ˈhɑː.bi/", "vie": "sở thích, thú vui" },
+  { "eng": "hold (v)", "spelling": "/hoʊld/", "vie": "nắm, giữ" },
+  { "eng": "hole (n)", "spelling": "/hoʊl/", "vie": "lỗ, ô trống" },
+  { "eng": "holiday (n)", "spelling": "/ˈhɑː.lə.deɪ/", "vie": "ngày nghỉ lễ" },
+  { "eng": "home (n)", "spelling": "/hoʊm/", "vie": "nhà, chỗ ở" },
+  { "eng": "hope (v)", "spelling": "/hoʊp/", "vie": "hi vọng, kì vọng" },
+  { "eng": "horse (n)", "spelling": "/hɔːrs/", "vie": "con ngựa" },
+  { "eng": "hospital (n)", "spelling": "/ˈhɑː.spɪ.t̬əl/", "vie": "bệnh viện" },
+  { "eng": "hot (adj)", "spelling": "/hɑːt/", "vie": "nóng" },
+  { "eng": "hotel (n)", "spelling": "/hoʊˈtel/", "vie": "khách sạn" },
+  { "eng": "house (n)", "spelling": "/haʊs/", "vie": "căn nhà, nhà ở" },
+  {
+    "eng": "how (adv)",
+    "spelling": "/haʊ/",
+    "vie": "như thế nào, thế nào, ra sao"
+  },
+  { "eng": "hundred (n)", "spelling": "/ˈhʌn.drəd/", "vie": "số hàng trăm" },
+  { "eng": "hungry (adj)", "spelling": "/ˈhʌŋ.ɡri/", "vie": "đói" },
+  { "eng": "hour (n)", "spelling": "/aʊr/", "vie": "giờ đồng hồ" },
+  {
+    "eng": "hurry (v)",
+    "spelling": "/ˈhɝː.i/",
+    "vie": "làm nhanh, làm vội, thúc giục"
+  },
+  { "eng": "husband (n)", "spelling": "/ˈhʌz.bənd/", "vie": "chồng" },
+  { "eng": "hurt (v)", "spelling": "/hɝːt/", "vie": "làm bị thương, làm đau" },
+  {
+    "eng": "I (pron)",
+    "spelling": "/aɪ/",
+    "vie": "(đại từ nhân xưng ngôi thứ nhất) tôi, mình"
+  },
+  { "eng": "ice (n)", "spelling": "/aɪs/", "vie": "băng đá, cục đá" },
+  { "eng": "idea (n)", "spelling": "/aɪˈdiː.ə/", "vie": "gợi ý, ý tưởng" },
+  { "eng": "if (conj)", "spelling": "/ɪf/", "vie": "nếu, nếu như" },
+  {
+    "eng": "important (adj)",
+    "spelling": "/ɪmˈpɔːr.tənt/",
+    "vie": "quan trọng, trọng yếu"
+  },
+  { "eng": "in (prep)", "spelling": "/ɪn/", "vie": "ở trong, bên trong" },
+  {
+    "eng": "increase (v)",
+    "spelling": "/ɪnˈkriːs/",
+    "vie": "tăng thêm, tăng lên"
+  },
+  { "eng": "inside (n)", "spelling": "/ɪnˈsaɪd/", "vie": "phía bên trong" },
+  { "eng": "into (prep)", "spelling": "/ˈɪn.tuː/", "vie": "vào, vào trong" },
+  { "eng": "introduce (v)", "spelling": "/ˌɪn.trəˈduːs/", "vie": "giới thiệu" },
+  {
+    "eng": "invent (v)",
+    "spelling": "/ɪnˈvent/",
+    "vie": "phát minh, sáng tạo"
+  },
+  { "eng": "iron (n)", "spelling": "/aɪrn/", "vie": "kim loại sắt" },
+  { "eng": "invite (v)", "spelling": "/ɪnˈvaɪt/", "vie": "mời, rủ" },
+  {
+    "eng": "is (v)",
+    "spelling": "/ɪz/",
+    "vie": "thì, là (dùng cho ngôi thứ 3 số ít)"
+  },
+  { "eng": "island (n)", "spelling": "/ˈaɪ.lənd/", "vie": "hòn đảo" },
+  { "eng": "it (pron)", "spelling": "/ɪt/", "vie": "nó, cái đó" },
+  {
+    "eng": "its (det)",
+    "spelling": "/ɪts/",
+    "vie": "(sở hữu) của cái đó, của nó"
+  },
+  { "eng": "jelly (n)", "spelling": "/ˈdʒel.i/", "vie": "mứt, thạch" },
+  { "eng": "job (n)", "spelling": "/dʒɑːb/", "vie": "công việc" },
+  { "eng": "join (v)", "spelling": "/dʒɔɪn/", "vie": "kết nối, tham gia" },
+  { "eng": "juice (n)", "spelling": "/dʒuːs/", "vie": "nước ép" },
+  { "eng": "jump (v)", "spelling": "/dʒʌmp/", "vie": "nhảy, giật mình" },
+  { "eng": "just (adv)", "spelling": "/dʒʌst/", "vie": "vừa mới, chỉ là" },
+  { "eng": "keep (v)", "spelling": "/kiːp/", "vie": "lưu giữ, kẹp" },
+  { "eng": "key (n)", "spelling": "/kiː/", "vie": "chìa khóa" },
+  { "eng": "kill (v)", "spelling": "/kɪl/", "vie": "giết" },
+  {
+    "eng": "kind (adj)",
+    "spelling": "/kaɪnd/",
+    "vie": "tốt bụng, thánh thiện"
+  },
+  { "eng": "king (n)", "spelling": "/kɪŋ/", "vie": "vua" },
+  {
+    "eng": "kitchen (n)",
+    "spelling": "/ˈkɪtʃ.ən/",
+    "vie": "căn bếp, phòng bếp"
+  },
+  { "eng": "knee (n)", "spelling": "/niː/", "vie": "đầu gối" },
+  { "eng": "knife (n)", "spelling": "/naɪf/", "vie": "con dao" },
+  { "eng": "knock (v)", "spelling": "/nɑːk/", "vie": "đập, đánh, va đụng" },
+  { "eng": "know (v)", "spelling": "/noʊ/", "vie": "biết" },
+  { "eng": "ladder (n)", "spelling": "/ˈlæd.ɚ/", "vie": "cái thang" },
+  {
+    "eng": "lady (n)",
+    "spelling": "/ˈleɪ.di/",
+    "vie": "quý bà, quý cô, phu nhân"
+  },
+  { "eng": "lamp (n)", "spelling": "/læmp/", "vie": "cái đèn" },
+  { "eng": "land (n)", "spelling": "/lænd/", "vie": "đất, đất liền" },
+  { "eng": "large (adj)", "spelling": "/lɑːrdʒ/", "vie": "rộng, lớn, nhiều" },
+  { "eng": "last (adj)", "spelling": "/læst/", "vie": "cuối cùng, sau cùng" },
+  { "eng": "late (adj)", "spelling": "/leɪt/", "vie": "chậm, muộn, trễ" },
+  {
+    "eng": "lately (adv)",
+    "spelling": "/ˈleɪt.li/",
+    "vie": "gần đây, mới đây"
+  },
+  {
+    "eng": "laugh (v)",
+    "spelling": "/læf/",
+    "vie": "cười lớn, cười thành tiếng"
+  },
+  {
+    "eng": "lazy (adj)",
+    "spelling": "/ˈleɪ.zi/",
+    "vie": "lười biếng, lười nhác"
+  },
+  {
+    "eng": "lead (v)",
+    "spelling": "/liːd/",
+    "vie": "lãnh đạo, dẫn dắt, dẫn đầu"
+  },
+  { "eng": "leaf (n)", "spelling": "/liːf/", "vie": "cái lá" },
+  { "eng": "learn (v)", "spelling": "/lɝːn/", "vie": "học, nghiên cứu" },
+  { "eng": "leave (v)", "spelling": "/liːv/", "vie": "rời đi, bỏ đi, để lại" },
+  { "eng": "leg (n)", "spelling": "/leɡ/", "vie": "cái chân" },
+  { "eng": "left (adv)", "spelling": "/left/", "vie": "về phía bên trái" },
+  { "eng": "lend (v)", "spelling": "/lend/", "vie": "cho vay, cho mượn" },
+  { "eng": "length (n)", "spelling": "/leŋθ/", "vie": "chiều dài, độ dài" },
+  { "eng": "less (adj)", "spelling": "/les/", "vie": "ít hơn" },
+  { "eng": "lesson (n)", "spelling": "/ˈles.ən/", "vie": "bài học" },
+  { "eng": "let (v)", "spelling": "/let/", "vie": "để cho, cho phép" },
+  { "eng": "letter (n)", "spelling": "/ˈlet̬.ɚ/", "vie": "thư từ" },
+  { "eng": "library (n)", "spelling": "/ˈlaɪ.brer.i/", "vie": "thư viện" },
+  { "eng": "lie (v)", "spelling": "/laɪ/", "vie": "nằm, nằm nghỉ" },
+  { "eng": "life (n)", "spelling": "/laɪf/", "vie": "cuộc đời, đời sống" },
+  { "eng": "light (n)", "spelling": "/laɪt/", "vie": "ánh sáng, nguồn sáng" },
+  { "eng": "like (v)", "spelling": "/laɪk/", "vie": "yêu thích" },
+  { "eng": "lion (n)", "spelling": "/ˈlaɪ.ən/", "vie": "con sư tử" },
+  { "eng": "lip (n)", "spelling": "/lɪp/", "vie": "môi" },
+  { "eng": "list (n)", "spelling": "/lɪst/", "vie": "danh sách" },
+  { "eng": "listen (v)", "spelling": "/ˈlɪs.ən/", "vie": "lắng nghe" },
+  { "eng": "little (adj)", "spelling": "/ˈlɪt̬.əl/", "vie": "nhỏ bé, ít ỏi" },
+  { "eng": "live (v)", "spelling": "/lɪv/", "vie": "sống, ở tại" },
+  { "eng": "lock (n)", "spelling": "/lɑːk/", "vie": "cái khóa" },
+  { "eng": "lonely (adj)", "spelling": "/ˈloʊn.li/", "vie": "cô đơn, cô độc" },
+  { "eng": "long (adj)", "spelling": "/lɑːŋ/", "vie": "(kích thước) dài" },
+  { "eng": "(thời gian) lâu\r" },
+  { "eng": "look (v)", "spelling": "/lʊk/", "vie": "nhìn, ngắm" },
+  { "eng": "lose (v)", "spelling": "/luːz/", "vie": "đánh mất" },
+  {
+    "eng": "lot (n)",
+    "spelling": "/lɑːt/",
+    "vie": "mớ, lô, hàng đống, rất nhiều"
+  },
+  { "eng": "love (v)", "spelling": "/lʌv/", "vie": "yêu" },
+  { "eng": "low (adj)", "spelling": "/loʊ/", "vie": "thấp, cạn" },
+  {
+    "eng": "lower (adj)",
+    "spelling": "/ˈloʊ.ɚ/",
+    "vie": "thấp hơn, bậc thấp hơn"
+  },
+  { "eng": "luck (n)", "spelling": "/lʌk/", "vie": "sự may mắn, điềm may" },
+  { "eng": "machine (n)", "spelling": "/məˈʃiːn/", "vie": "máy móc, bộ máy" },
+  { "eng": "main (adj)", "spelling": "/meɪn/", "vie": "chính, chủ yếu" },
+  { "eng": "make (v)", "spelling": "/meɪk/", "vie": "làm, tạo ra" },
+  {
+    "eng": "male (adj)",
+    "spelling": "/meɪl/",
+    "vie": "giống đực, (thuộc) đàn ông"
+  },
+  { "eng": "man (n)", "spelling": "/mæn/", "vie": "người đàn ông" },
+  { "eng": "many (det)", "spelling": "/ˈmen.i/", "vie": "nhiều, lắm" },
+  { "eng": "map (n)", "spelling": "/mæp/", "vie": "bản đồ" },
+  { "eng": "mark (n)", "spelling": "/mɑːrk/", "vie": "vết, dấu" },
+  { "eng": "market (n)", "spelling": "/ˈmɑːr.kɪt/", "vie": "chợ, thị trường" },
+  { "eng": "marry (v)", "spelling": "/ˈmer.i/\r" },
+  { "eng": "/ˈmær.i/", "spelling": "cưới, kết hôn\r" },
+  { "eng": "matter (n)", "spelling": "/ˈmæt̬.ɚ/", "vie": "vấn đề" },
+  { "eng": "may (modal verb)", "spelling": "/meɪ/", "vie": "có thể" },
+  { "eng": "me (pron)", "spelling": "/miː/\r" },
+  { "eng": "/mi/", "spelling": "tôi, mình\r" },
+  { "eng": "meal (n)", "spelling": "/mɪəl/", "vie": "bữa ăn" },
+  { "eng": "mean (v)", "spelling": "/miːn/", "vie": "nghĩa là, dự định" },
+  { "eng": "measure (v)", "spelling": "/ˈmeʒ.ɚ/", "vie": "đo lường, đong đếm" },
+  { "eng": "meat (n)", "spelling": "/miːt/", "vie": "miếng thịt" },
+  { "eng": "medicine (n)", "spelling": "/ˈmed.ɪ.sən/", "vie": "thuốc" },
+  { "eng": "meet (v)", "spelling": "/miːt/", "vie": "gặp gỡ" },
+  { "eng": "member (n)", "spelling": "/ˈmem.bɚ/", "vie": "thành viên" },
+  {
+    "eng": "mention (v)",
+    "spelling": "/ˈmen.ʃən/",
+    "vie": "nhắc đến, đề cập đến"
+  },
+  {
+    "eng": "method (n)",
+    "spelling": "/ˈmeθ.əd/",
+    "vie": "phương thức, cách thức"
+  },
+  { "eng": "middle (n)", "spelling": "/ˈmɪd.əl/", "vie": "chỗ giữa" },
+  { "eng": "milk (n)", "spelling": "/mɪlk/", "vie": "sữa" },
+  { "eng": "million (n)", "spelling": "/ˈmɪl.jən/", "vie": "hàng triệu" },
+  { "eng": "mind (n)", "spelling": "/maɪnd/", "vie": "tâm trí" },
+  { "eng": "minute (n)", "spelling": "/ˈmɪn.ɪt/", "vie": "phút" },
+  { "eng": "miss (v)", "spelling": "/mɪs/", "vie": "bỏ lỡ, nhỡ" },
+  { "eng": "mistake (n)", "spelling": "/mɪˈsteɪk/", "vie": "sai sót, sai lầm" },
+  { "eng": "mix (v)", "spelling": "/mɪks/", "vie": "trộn lẫn, trộn đều" },
+  { "eng": "model (n)", "spelling": "/ˈmɑː.dəl/", "vie": "kiểu, mẫu, mô hình" },
+  {
+    "eng": "modern (adj)",
+    "spelling": "/ˈmɑː.dɚn/",
+    "vie": "hiện đại, tân tiến"
+  },
+  {
+    "eng": "moment (n)",
+    "spelling": "/ˈmoʊ.mənt/",
+    "vie": "khoảnh khắc, thời điểm"
+  },
+  { "eng": "money (n)", "spelling": "/ˈmʌn.i/", "vie": "tiền bạc" },
+  { "eng": "monkey (n)", "spelling": "/ˈmʌŋ.ki/", "vie": "con khỉ" },
+  { "eng": "month (n)", "spelling": "/mʌnθ/", "vie": "tháng" },
+  { "eng": "moon (n)", "spelling": "/muːn/", "vie": "mặt trăng" },
+  { "eng": "more (det)", "spelling": "/mɔːr/", "vie": "thêm nữa, hơn nữa" },
+  { "eng": "morning (n)", "spelling": "/ˈmɔːr.nɪŋ/", "vie": "buổi sáng" },
+  { "eng": "most (det)", "spelling": "/moʊst/", "vie": "nhiều nhất" },
+  { "eng": "mother (n)", "spelling": "/ˈmʌð.ɚ/", "vie": "mẹ, má" },
+  { "eng": "mountain (n)", "spelling": "/ˈmaʊn.tən/", "vie": "ngọn núi" },
+  { "eng": "mouth (n)", "spelling": "/maʊθ/", "vie": "cái miệng" },
+  { "eng": "move (v)", "spelling": "/muːv/", "vie": "di chuyển, chuyển động" },
+  { "eng": "much (adj)", "spelling": "/mʌtʃ/", "vie": "nhiều, lắm" },
+  { "eng": "museum (n)", "spelling": "/mjuːˈziː.əm/", "vie": "bảo tàng" },
+  { "eng": "music (n)", "spelling": "/ˈmjuː.zɪk/", "vie": "âm nhạc" },
+  { "eng": "must (modal verb)", "spelling": "/mʌst/\r" },
+  { "eng": "/məst/\r" },
+  { "eng": "/məs/", "spelling": "phản, cần làm gì\r" },
+  { "eng": "my (adj)", "spelling": "/maɪ/", "vie": "của tôi" },
+  { "eng": "name (n)", "spelling": "/neɪm/", "vie": "tên, danh tính" },
+  { "eng": "narrow (adj)", "spelling": "/ˈner.oʊ/", "vie": "hẹp, chật hẹp" },
+  { "eng": "nation (n)", "spelling": "/ˈneɪ.ʃən/", "vie": "quốc gia" },
+  { "eng": "nature (n)", "spelling": "/ˈneɪ.tʃɚ/", "vie": "thiên nhiên" },
+  { "eng": "near (adv)", "spelling": "/nɪr/", "vie": "ở gần, sát gần" },
+  { "eng": "nearly (adv)", "spelling": "/ˈnɪr.li/", "vie": "gần, suýt, sắp" },
+  { "eng": "neck (n)", "spelling": "/nek/", "vie": "cái cổ" },
+  { "eng": "need (v)", "spelling": "/niːd/", "vie": "cần, đòi hỏi" },
+  { "eng": "needle (n)", "spelling": "/ˈniː.dəl/", "vie": "cái kim, kim chỉ" },
+  { "eng": "neighbour (n)", "spelling": "/ˈneɪ.bɚ/", "vie": "hàng xóm" },
+  { "eng": "neither (n)", "spelling": "/ˈnaɪ.ðɚ/\r" },
+  { "eng": "/ˈniː.ðɚ/", "spelling": "không cái nào (trong hai cái)\r" },
+  { "eng": "net (n)", "spelling": "/net/", "vie": "cái lưới" },
+  {
+    "eng": "never (adv)",
+    "spelling": "/ˈnev.ɚ/",
+    "vie": "chưa bao giờ, không bao giờ"
+  },
+  { "eng": "new (adj)", "spelling": "/nuː/", "vie": "mới" },
+  { "eng": "news (n)", "spelling": "/nuːz/", "vie": "bản tin, tin tức" },
+  { "eng": "newspaper (n)", "spelling": "/ˈnuːzˌpeɪ.pɚ/", "vie": "báo" },
+  { "eng": "next (adj)", "spelling": "/nekst/", "vie": "sát, gần" },
+  { "eng": "nice (adj)", "spelling": "/naɪs/", "vie": "tốt, tử tế, chu đáo" },
+  { "eng": "night (n)", "spelling": "/naɪt/", "vie": "buổi đêm" },
+  { "eng": "nine (n)", "spelling": "/naɪn/", "vie": "số 9" },
+  { "eng": "no (det)", "spelling": "/noʊ/", "vie": "không" },
+  {
+    "eng": "noble (adj)",
+    "spelling": "/ˈnoʊ.bəl/",
+    "vie": "quý tộc, quý phái"
+  },
+  { "eng": "noise (n)", "spelling": "/nɔɪz/", "vie": "tiếng ồn" },
+  { "eng": "none (pron)", "spelling": "/nʌn/", "vie": "không ai cả, không gì" },
+  { "eng": "nor (conj)", "spelling": "/nɔːr/", "vie": "cũng không" },
+  { "eng": "north (n)", "spelling": "/nɔːrθ/", "vie": "phương, hướng Bắc" },
+  { "eng": "nose (n)", "spelling": "/noʊz/", "vie": "cái mũi" },
+  { "eng": "not (adv)", "spelling": "/nɑːt/", "vie": "không" },
+  { "eng": "nothing (n)", "spelling": "/ˈnʌθ.ɪŋ/", "vie": "không gì" },
+  {
+    "eng": "notice (v)",
+    "spelling": "/ˈnoʊ.t̬ɪs/",
+    "vie": "chú ý, để ý, nhận ra"
+  },
+  { "eng": "now (adv)", "spelling": "/naʊ/", "vie": "ngay bây giờ, hiện tại" },
+  { "eng": "number (n)", "spelling": "/ˈnʌm.bɚ/", "vie": "số đếm" },
+  { "eng": "obey (v)", "spelling": "/oʊˈbeɪ/", "vie": "tuân thủ, tuân lệnh" },
+  {
+    "eng": "object (n)",
+    "spelling": "/ˈɑːb.dʒɪkt/",
+    "vie": "đồ vật, vật thể, mục tiêu"
+  },
+  { "eng": "ocean (n)", "spelling": "/ˈoʊ.ʃən/", "vie": "đại dương" },
+  { "eng": "of (prep)", "spelling": "/ɑːv/\r" },
+  { "eng": "/əv/", "spelling": "của, thuộc\r" },
+  { "eng": "off (adv)", "spelling": "/ɑːf/", "vie": "tắt" },
+  { "eng": "offer (v)", "spelling": "/ˈɑː.fɚ/", "vie": "biếu, tặng, đề nghị" },
+  { "eng": "office (n)", "spelling": "/ˈɑː.fɪs/", "vie": "văn phòng" },
+  { "eng": "often (adv)", "spelling": "/ˈɑːf.ən/\r" },
+  { "eng": "/ˈɑːf.tən/", "spelling": "thường xuyên, nhiều lần\r" },
+  { "eng": "oil (n)", "spelling": "/ɔɪl/", "vie": "dầu" },
+  { "eng": "old (adj)", "spelling": "/oʊld", "vie": "già, lớn tuổi" },
+  { "eng": "on (prep)", "spelling": "/ɑːn/", "vie": "bên trên" },
+  { "eng": "one (n)", "spelling": "/wʌn/", "vie": "số 1" },
+  { "eng": "only (adj)", "spelling": "/ˈoʊn.li/", "vie": "chỉ một, duy nhất" },
+  { "eng": "open (adj)", "spelling": "/ˈoʊ.pən/", "vie": "mở" },
+  {
+    "eng": "opposite (adj)",
+    "spelling": "/ˈɑː.pə.zɪt/",
+    "vie": "đối lập, trái ngược"
+  },
+  { "eng": "or (conj)", "spelling": "/ɔːr/\r" },
+  { "eng": "/ɚ", "spelling": "hoặc, hay\r" },
+  { "eng": "orange (n)", "spelling": "/ˈɔːr.ɪndʒ/", "vie": "quả cam" },
+  { "eng": "order (n)", "spelling": "/ˈɔːr.dɚ/", "vie": "đơn đặt hàng" },
+  { "eng": "other (det)", "spelling": "/ˈʌð.ɚ/", "vie": "khác, kia" },
+  { "eng": "our (adj)", "spelling": "/ˈaʊ.ɚ/\r" },
+  { "eng": "/aʊr", "spelling": "của chúng ta, của chúng tôi\r" },
+  { "eng": "out (prep)", "spelling": "/aʊt/", "vie": "ra ngoài, ra khỏi" },
+  { "eng": "outside (prep)", "spelling": "/ˌaʊtˈsaɪd/\r" },
+  { "eng": "/ˈaʊt.saɪd/", "spelling": "phía bên ngoài\r" },
+  { "eng": "over (prep)", "spelling": "/ˈoʊ.vɚ/", "vie": "lên trên, bên trên" },
+  { "eng": "own (v)", "spelling": "/oʊn/", "vie": "sở hữu, có" },
+  { "eng": "page (n)", "spelling": "/peɪdʒ/", "vie": "tờ giấy, trang giấy" },
+  { "eng": "pain (n)", "spelling": "/peɪn/", "vie": "nỗi đau" },
+  { "eng": "paint (v)", "spelling": "/peɪnt/", "vie": "tô màu" },
+  { "eng": "pair (n)", "spelling": "/per/", "vie": "đôi, cặp" },
+  { "eng": "pan (n)", "spelling": "/pæn/", "vie": "cái chảo" },
+  { "eng": "paper (n)", "spelling": "/ˈpeɪ.pɚ/", "vie": "giấy" },
+  { "eng": "parent (n)", "spelling": "/ˈper.ənt/", "vie": "bố mẹ, phụ huynh" },
+  { "eng": "park (n)", "spelling": "/pɑːrk/", "vie": "công viên" },
+  { "eng": "part (n)", "spelling": "/pɑːrt/", "vie": "phần, bộ phận" },
+  {
+    "eng": "partner (n)",
+    "spelling": "/ˈpɑːrt.nɚ/",
+    "vie": "cộng sự, đối tác"
+  },
+  {
+    "eng": "party (n)",
+    "spelling": "/ˈpɑːr.t̬i/",
+    "vie": "bữa tiệc, buổi tiệc"
+  },
+  { "eng": "pass (v)", "spelling": "/pæs/", "vie": "đi qua, ngang qua" },
+  { "eng": "past (n)", "spelling": "/pæst/", "vie": "quá khứ, dĩ vãng" },
+  { "eng": "path (n)", "spelling": "/pæθ/", "vie": "đường đi, hướng đi" },
+  { "eng": "pay (v)", "spelling": "/peɪ/", "vie": "trả tiền, thanh toán" },
+  { "eng": "peace (n)", "spelling": "/piːs/", "vie": "hòa bình, sự yên ổn" },
+  { "eng": "pen (n)", "spelling": "/pen/", "vie": "bút máy" },
+  { "eng": "pencil (n)", "spelling": "/ˈpen.səl/", "vie": "bút chì" },
+  {
+    "eng": "people (n)",
+    "spelling": "/ˈpiː.pəl/",
+    "vie": "người (nói chung), nhân dân"
+  },
+  { "eng": "pepper (n)", "spelling": "/ˈpep.ɚ/", "vie": "hạt tiêu" },
+  { "eng": "per (prep)", "spelling": "/pɝː/\r" },
+  { "eng": "/pɚ/", "spelling": "mỗi\r" },
+  {
+    "eng": "perfect (adj)",
+    "spelling": "/ˈpɝː.fekt/",
+    "vie": "hoàn hỏa, hoàn mỹ"
+  },
+  {
+    "eng": "period (n)",
+    "spelling": "/ˈpɪr.i.əd/",
+    "vie": "thời kỳ, giai đoạn"
+  },
+  { "eng": "person (n)", "spelling": "/ˈpɝː.sən/", "vie": "con người (số ít)" },
+  { "eng": "petrol (n)", "spelling": "/ˈpet.rəl/", "vie": "xăng dầu" },
+  {
+    "eng": "photograph (n)",
+    "spelling": "/ˈfoʊ.t̬oʊ.ɡræf/",
+    "vie": "bức ảnh, tấm ảnh"
+  },
+  {
+    "eng": "piano (n)",
+    "spelling": "/piˈæn.oʊ/",
+    "vie": "đàn dương cầm, đàn piano"
+  },
+  { "eng": "pick (v)", "spelling": "/pɪk/", "vie": "nhặt, hái" },
+  {
+    "eng": "picture (n)",
+    "spelling": "/ˈpɪk.tʃɚ/",
+    "vie": "bức tranh, bức vẽ"
+  },
+  { "eng": "piece (n)", "spelling": "/piːs/", "vie": "mảnh, mẩu, miếng" },
+  { "eng": "pig (n)", "spelling": "/pɪɡ/", "vie": "con lợn, heo" },
+  { "eng": "pin (n)", "spelling": "/pɪn/", "vie": "đinh ghim" },
+  { "eng": "pink (n)", "spelling": "/pɪŋk/", "vie": "(màu sắc) hồng" },
+  { "eng": "place (n)", "spelling": "/pleɪs/", "vie": "nơi, chỗ, địa điểm" },
+  { "eng": "plane (n)", "spelling": "/pleɪn/", "vie": "máy bay, phi cơ" },
+  { "eng": "plant (n)", "spelling": "/plænt/", "vie": "thực vật, cây cối" },
+  { "eng": "plastic (n)", "spelling": "/ˈplæs.tɪk/", "vie": "chất dẻo, nilon" },
+  { "eng": "plate (n)", "spelling": "/pleɪt/", "vie": "cái đĩa, đĩa thức ăn" },
+  { "eng": "play (v)", "spelling": "/pleɪ/", "vie": "chơi đùa, vui chơi" },
+  {
+    "eng": "please (v)",
+    "spelling": "/pliːz/",
+    "vie": "làm hài lòng, làm hài lòng"
+  },
+  {
+    "eng": "pleased (adj)",
+    "spelling": "/pliːzd/",
+    "vie": "thỏa mãn, hài lòng"
+  },
+  {
+    "eng": "plenty (n)",
+    "spelling": "/ˈplen.t̬i/",
+    "vie": "nhiều, phong phú, dồi dào"
+  },
+  {
+    "eng": "pocket (n)",
+    "spelling": "/ˈpɑː.kɪt/",
+    "vie": "túi (quần, áo), bao đựng"
+  },
+  {
+    "eng": "point (n)",
+    "spelling": "/pɔɪnt/",
+    "vie": "vấn đề, trọng điểm, điểm chính"
+  },
+  {
+    "eng": "poison (n)",
+    "spelling": "/ˈpɔɪ.zən",
+    "vie": "chất độc, thuốc độc"
+  },
+  { "eng": "police (n)", "spelling": "/pəˈliːs/", "vie": "cảnh sát" },
+  {
+    "eng": "polite (adj)",
+    "spelling": "/pəˈlaɪt/",
+    "vie": "lịch sự, lịch thiệp"
+  },
+  { "eng": "pool (n)", "spelling": "/puːl/", "vie": "vũng nước, hồ bơi" },
+  { "eng": "poor (adj)", "spelling": "/pʊr/", "vie": "nghèo khổ" },
+  {
+    "eng": "popular (adj)",
+    "spelling": "/ˈpɑː.pjə.lɚ/",
+    "vie": "nổi tiếng, phổ biến, thịnh hành"
+  },
+  { "eng": "position (n)", "spelling": "/pəˈzɪʃ.ən/", "vie": "vị trí, chỗ" },
+  {
+    "eng": "possible (adj)",
+    "spelling": "/ˈpɑː.sə.bəl/",
+    "vie": "khả thi, có thể thực hiện được"
+  },
+  { "eng": "potato (n)", "spelling": "/pəˈteɪ.t̬oʊ/", "vie": "khoai tây" },
+  { "eng": "pour (v)", "spelling": "/pɔːr/", "vie": "rót, đổ, giội nước" },
+  { "eng": "power (n)", "spelling": "/ˈpaʊ.ɚ/", "vie": "sức mạnh, quyền lực" },
+  {
+    "eng": "present (n)",
+    "spelling": "/ˈprez.ənt/",
+    "vie": "hiện tại, bây giờ"
+  },
+  { "eng": "press (v)", "spelling": "/pres/", "vie": "ấn, ép chặt" },
+  { "eng": "pretty (adj)", "spelling": "/ˈprɪt̬.i/", "vie": "xinh xắn" },
+  {
+    "eng": "prevent (v)",
+    "spelling": "/prɪˈvent/",
+    "vie": "ngăn chặn, ngăn cản"
+  },
+  { "eng": "price (n)", "spelling": "/praɪs/", "vie": "giá thành, giá cả" },
+  { "eng": "prince (n)", "spelling": "/prɪns/", "vie": "hoàng tử" },
+  { "eng": "prison (n)", "spelling": "/ˈprɪz.ən/", "vie": "nhà tù, ngục tù" },
+  {
+    "eng": "private (adj)",
+    "spelling": "/ˈpraɪ.vət/",
+    "vie": "riêng tư, cá nhân"
+  },
+  {
+    "eng": "prize (n)",
+    "spelling": "/praɪz/",
+    "vie": "phần thưởng, giải thưởng"
+  },
+  {
+    "eng": "probably (adv)",
+    "spelling": "/ˈprɑː.bə.bli/",
+    "vie": "có thể, có khả năng"
+  },
+  { "eng": "problem (n)", "spelling": "/ˈprɑː.bləm/", "vie": "vấn đề" },
+  { "eng": "produce (v)", "spelling": "/prəˈduːs/", "vie": "sản xuất, tạo ra" },
+  { "eng": "promise (v)", "spelling": "/ˈprɑː.mɪs/", "vie": "hứa, đảm bảo" },
+  {
+    "eng": "proper (adj)",
+    "spelling": "/ˈprɑː.pɚ/",
+    "vie": "đúng, thích đáng, hợp lý"
+  },
+  {
+    "eng": "protect (v)",
+    "spelling": "/prəˈtekt/",
+    "vie": "bảo vệ, bảo hộ, che chở"
+  },
+  {
+    "eng": "provide (v)",
+    "spelling": "/prəˈvaɪd/",
+    "vie": "cung cấp, chu cấp"
+  },
+  {
+    "eng": "public (adj)",
+    "spelling": "/ˈpʌb.lɪk/",
+    "vie": "chung, công khai, công cộng"
+  },
+  {
+    "eng": "pull (n, v)",
+    "spelling": "/pʊl/",
+    "vie": "lôi, kéo (về phía mình); sự lôi kéo"
+  },
+  {
+    "eng": "punish (v)",
+    "spelling": "/ˈpʌn.ɪʃ/",
+    "vie": "trừng phạt, trừng trị, trị tội"
+  },
+  {
+    "eng": "pupil (n)",
+    "spelling": "/ˈpjuː.pəl/",
+    "vie": "học sinh, sinh viên"
+  },
+  { "eng": "push (v, n)", "spelling": "/pʊʃ/", "vie": "xô, đẩy; sự xô mạnh" },
+  { "eng": "put (v)", "spelling": "/pʊt/", "vie": "đặt, để, cho vào" },
+  {
+    "eng": "queen (n)",
+    "spelling": "/kwiːn/",
+    "vie": "vợ của vua, nữ hoàng, bà hoàng"
+  },
+  {
+    "eng": "question (n, v)",
+    "spelling": "/ˈkwes.tʃən/",
+    "vie": "câu hỏi, câu nghi vấn; đặt câu hỏi, chất vấn"
+  },
+  { "eng": "quick (adj)", "spelling": "/kwɪk/", "vie": "nhanh chóng, gấp gáp" },
+  {
+    "eng": "quiet (adj)",
+    "spelling": "/ˈkwaɪ.ət/",
+    "vie": "yên tĩnh, lặng lẽ, im ắng"
+  },
+  { "eng": "quite (adv)", "spelling": "/kwaɪt/", "vie": "tương đối, khá" },
+  {
+    "eng": "radio (n)",
+    "spelling": "/ˈreɪ.di.oʊ/",
+    "vie": "đài radio, đài phát thanh, sóng vô tuyến"
+  },
+  {
+    "eng": "rain (n, v)",
+    "spelling": "/reɪn/",
+    "vie": "cơn mưa, trận mưa; đổ mưa"
+  },
+  {
+    "eng": "rainy (adj)",
+    "spelling": "/ˈreɪ.ni/",
+    "vie": "mưa nhiều, hay mưa"
+  },
+  {
+    "eng": "raise (v)",
+    "spelling": "/reɪz/",
+    "vie": "nâng lên, giơ lên, tăng lên"
+  },
+  {
+    "eng": "reach (n, v)",
+    "spelling": "/riːtʃ/",
+    "vie": "sự với tay; đưa tay ra, với tay; đạt được, đạt đến"
+  },
+  { "eng": "read (v)", "spelling": "/riːd/", "vie": "đọc" },
+  { "eng": "ready (adj)", "spelling": "/ˈred.i/", "vie": "sẵn sàng, sẵn lòng" },
+  { "eng": "real (adj)", "spelling": "/ˈriː.əl/", "vie": "thực tế, có thật" },
+  { "eng": "really (adv)", "spelling": "/ˈriː.ə.li/", "vie": "thực, thật ra" },
+  {
+    "eng": "receive (v)",
+    "spelling": "/rɪˈsiːv/",
+    "vie": "nhận được, lĩnh hội, tiếp thu"
+  },
+  {
+    "eng": "record (n, v)",
+    "spelling": "/rɪˈkɔːrd/",
+    "vie": "biên bản, bản ghi; ghi chép, thu âm"
+  },
+  { "eng": "red (n)", "spelling": "/red/", "vie": "(màu sắc) đỏ" },
+  { "eng": "remember (v)", "spelling": "/rɪˈmem.bɚ/", "vie": "nhớ, ghi nhớ" },
+  { "eng": "remind (v)", "spelling": "/rɪˈmaɪnd/", "vie": "nhắc nhở, gợi nhớ" },
+  {
+    "eng": "remove (v)",
+    "spelling": "/rɪˈmuːv/",
+    "vie": "xóa bỏ, tháo bỏ, loại bỏ"
+  },
+  {
+    "eng": "rent (n, v)",
+    "spelling": "/rent/",
+    "vie": "sự cho thuê, mướn; cho thuê, cho mướn"
+  },
+  {
+    "eng": "repair (n,v)",
+    "spelling": "/rɪˈper/",
+    "vie": "sự sửa chữa, sự hồi phục; sửa chữa, khôi phục"
+  },
+  {
+    "eng": "repeat (n, v)",
+    "spelling": "/rɪˈpiːt/",
+    "vie": "sự nhắc lại, sự lặp lại; nhắc lại, lặp lại"
+  },
+  {
+    "eng": "reply (n, v)",
+    "spelling": "/rɪˈplaɪ/",
+    "vie": "sự hồi đáp, câu trả lời; phản hồi"
+  },
+  {
+    "eng": "report (n, v)",
+    "spelling": "/rɪˈpɔːrt/",
+    "vie": "bản báo cáo, bản tường thuật; tường thuật lại, kể lại"
+  },
+  {
+    "eng": "rest (n, v)",
+    "spelling": "/rest/",
+    "vie": "khoảng nghỉ, sự nghỉ ngơi, sự thanh thản; nghỉ ngơi, yên nghỉ"
+  },
+  {
+    "eng": "restaurant (n)",
+    "spelling": "/ˈres.tə.rɑːnt/",
+    "vie": "nhà hàng ăn uống"
+  },
+  {
+    "eng": "result (n, v)",
+    "spelling": "/rɪˈzʌlt/",
+    "vie": "kết quả, thành quả; dẫn đến kết quả"
+  },
+  {
+    "eng": "return (n, v)",
+    "spelling": "/rɪˈtɝːn/",
+    "vie": "sự trở lại, sự trả lại; trở lại, trở về"
+  },
+  { "eng": "rice (n)", "spelling": "/raɪs/", "vie": "gạo, cơm" },
+  {
+    "eng": "rich (adj)",
+    "spelling": "/rɪtʃ/",
+    "vie": "giàu có, dồi dào, phong phú"
+  },
+  {
+    "eng": "ride (n, v)",
+    "spelling": "/raɪd/",
+    "vie": "chuyến đi; đi (xe), cưỡi (ngựa)"
+  },
+  {
+    "eng": "right (n, adj, adv)",
+    "spelling": "right",
+    "vie": "bên phải, quyền lợi; chính xác, đúng đắn; ngay, thẳng, bên phải"
+  },
+  {
+    "eng": "ring (n, v)",
+    "spelling": "/rɪŋ/",
+    "vie": "nhẫn, chuông; đeo nhẫn, xỏ nhẫn, rung, reo"
+  },
+  {
+    "eng": "rise (n)",
+    "spelling": "/raɪz/",
+    "vie": "sự tăng lên; dậy, đứng dậy, mọc"
+  },
+  { "eng": "road (n)", "spelling": "/roʊd/", "vie": "con đường, lộ trình" },
+  { "eng": "rob (v)", "spelling": "/rɑːb/", "vie": "cướp giật, lấy trộm" },
+  { "eng": "rock (n)", "spelling": "/rɑːk/", "vie": "đá, hòn đá; rung chuyển" },
+  { "eng": "room (n)", "spelling": "/ruːm/\r" },
+  { "eng": "/rʊm/", "spelling": "buồng, phòng, chỗ\r" },
+  {
+    "eng": "round (n, adj, adv)",
+    "spelling": "/raʊnd/",
+    "vie": "vòng tròn, vòng; tròn, chẵn; vòng quanh"
+  },
+  {
+    "eng": "rubber (n, v)",
+    "spelling": "/ˈrʌb.ɚ/",
+    "vie": "cao su; bọc bằng cao su"
+  },
+  {
+    "eng": "rude (adj)",
+    "spelling": "/ruːd/",
+    "vie": "khiếm nhã, bất lịch sự, vô duyên"
+  },
+  {
+    "eng": "rule (n, v)",
+    "spelling": "/ruːl/",
+    "vie": "phép tắc, quy định; cai trị, thống trị, điều khiển"
+  },
+  {
+    "eng": "ruler (n)",
+    "spelling": "/ˈruː.lɚ/",
+    "vie": "thước kẻ, người cai trị"
+  },
+  { "eng": "run (n, v)", "spelling": "/rʌn/", "vie": "cuộc chạy; chạy" },
+  {
+    "eng": "rush (n, v)",
+    "spelling": "/rʌʃ/",
+    "vie": "sự gấp gáp, vội vàng; làm gấp, xô, đẩy"
+  },
+  { "eng": "sad (adj)", "spelling": "/sæd/", "vie": "buồn bã, rầu rĩ" },
+  {
+    "eng": "safe (n, adj)",
+    "spelling": "/seɪf/",
+    "vie": "tủ két; an toàn, chắc chắn"
+  },
+  {
+    "eng": "sail (n, v)",
+    "spelling": "/seɪl/",
+    "vie": "cánh buồm; đi tàu, thuyền"
+  },
+  { "eng": "salt (n)", "spelling": "/sɑːlt/", "vie": "muối" },
+  {
+    "eng": "same (adj, adv)",
+    "spelling": "/seɪm/",
+    "vie": "đồng đều, giống nhau; như nhau"
+  },
+  { "eng": "sand (n)", "spelling": "/sænd/", "vie": "cát" },
+  { "eng": "save (v)", "spelling": "/seɪv/", "vie": "cứu, cứu vớt" },
+  { "eng": "say (v)", "spelling": "/seɪ/", "vie": "nói, phát biểu" },
+  { "eng": "school (n)", "spelling": "/skuːl/", "vie": "trường học, đàn (cá)" },
+  { "eng": "science (n)", "spelling": "/ˈsaɪ.əns/", "vie": "khoa học" },
+  { "eng": "scissors (n)", "spelling": "/ˈsɪz.ɚz/", "vie": "cái kéo" },
+  {
+    "eng": "search (n, v)",
+    "spelling": "/sɝːtʃ/",
+    "vie": "sự tìm kiếm, cuộc khám xét; tìm kiếm, thăm dò"
+  },
+  { "eng": "seat (n, v)", "spelling": "/siːt/", "vie": "ghế, chỗ ngồi; ngồi" },
+  {
+    "eng": "second (n, det, adv)",
+    "spelling": "/ˈsek.ənd/",
+    "vie": "người về nhì, người thứ hai; thứ hai; ở vị trí thứ hai"
+  },
+  { "eng": "see (v)", "spelling": "/siː/", "vie": "trông, nhìn, xem, ngó" },
+  { "eng": "seem (v)", "spelling": "/siːm/", "vie": "có vẻ như, dường như" },
+  { "eng": "sell (v)", "spelling": "/sel/", "vie": "bán, để lại" },
+  { "eng": "send (v)", "spelling": "/send/", "vie": "gửi đi, cử đi, cho" },
+  { "eng": "sentence (n)", "spelling": "/ˈsen.təns/", "vie": "câu" },
+  {
+    "eng": "serve (n, v)",
+    "spelling": "/sɝːv/",
+    "vie": "phần ăn; phục vụ, phụng sự"
+  },
+  { "eng": "seven (n)", "spelling": "/ˈsev.ən/", "vie": "số 7" },
+  { "eng": "several (pron, detet)", "spelling": "/ˈsev.ɚ.əl/", "vie": "vài," },
+  { "eng": "sex (n)", "spelling": "/seks/", "vie": "giới tính" },
+  {
+    "eng": "shade (n, v)",
+    "spelling": "/ʃeɪd/",
+    "vie": "bóng râm, bóng tối; che bóng mát"
+  },
+  {
+    "eng": "shadow (n, v)",
+    "spelling": "/ˈʃæd.oʊ/",
+    "vie": "bóng tối; che bóng"
+  },
+  {
+    "eng": "shake (n, v)",
+    "spelling": "/ʃeɪk/",
+    "vie": "sự rung, lắc; rung, lắc, run"
+  },
+  {
+    "eng": "shape (n)",
+    "spelling": "/ʃeɪp/",
+    "vie": "hình dáng, hình thù; tạo hình, đẽo gọt"
+  },
+  {
+    "eng": "share (n, v)",
+    "spelling": "/ʃer/",
+    "vie": "phần đóng góp, cổ phần; chia sẻ, san sẻ"
+  },
+  { "eng": "sharp (adj)", "spelling": "/ʃɑːrp/", "vie": "sắc bén, nhọn" },
+  { "eng": "she (pron)", "spelling": "/ʃiː/\r" },
+  { "eng": "/ʃi/", "spelling": "cô ấy, bà ấy, chị ấy\r" },
+  { "eng": "sheep (n)", "spelling": "/ʃiːp/", "vie": "con cừu" },
+  {
+    "eng": "sheet (n)",
+    "spelling": "/ʃiːt/",
+    "vie": "khăn trải giường; tấm, phiếu, tờ"
+  },
+  { "eng": "shelf (n)", "spelling": "/ʃelf/", "vie": "kệ, ngăn, giá để" },
+  {
+    "eng": "shine (n, v)",
+    "spelling": "/ʃaɪn/",
+    "vie": "ánh sáng, ánh năng; chiếu sáng, soi sáng"
+  },
+  { "eng": "ship (n)", "spelling": "/ʃɪp/", "vie": "tàu, tàu thủy" },
+  { "eng": "shirt (n)", "spelling": "/ʃɝːt/", "vie": "áo sơ mi" },
+  { "eng": "shoe (n)", "spelling": "/ʃuː/", "vie": "cái giày" },
+  {
+    "eng": "shoot (n, v)",
+    "spelling": "/ʃuːt/",
+    "vie": "cuộc săn bắn; bắn, săn"
+  },
+  {
+    "eng": "shop (n, v)",
+    "spelling": "/ʃɑːp/",
+    "vie": "cửa hàng, cửa hiệu; đi mua sắm"
+  },
+  {
+    "eng": "short (adj, adv)",
+    "spelling": "/ʃɔːrt/",
+    "vie": "ngắn, thấp; đột nhiên, đột ngột"
+  },
+  { "eng": "should (modal verb)", "spelling": "/ʃʊd/\r" },
+  { "eng": "/ʃəd/", "spelling": "nên\r" },
+  { "eng": "shoulder (n)", "spelling": "/ˈʃoʊl.dɚ/", "vie": "vai, vai áo" },
+  {
+    "eng": "shout (n, v)",
+    "spelling": "/ʃaʊt/",
+    "vie": "sự la hét, hò hét; reo hò"
+  },
+  {
+    "eng": "show (n, v)",
+    "spelling": "/ʃoʊ/",
+    "vie": "sự bày tỏ, cuộc trưng bày, biểu diễn; cho thấy, tỏ ra"
+  },
+  { "eng": "sick (adj)", "spelling": "/sɪk/", "vie": "ốm đau, buồn nôn" },
+  {
+    "eng": "side (n)",
+    "spelling": "/saɪd/",
+    "vie": "mặt, mặt phẳng, phía, bên, phương diện"
+  },
+  {
+    "eng": "signal (n)",
+    "spelling": "/ˈsɪɡ.nəl/",
+    "vie": "dấu hiệu, tín hiệu"
+  },
+  {
+    "eng": "silence (n)",
+    "spelling": "/ˈsaɪ.ləns/",
+    "vie": "sự im lặng, sự câm lặng"
+  },
+  {
+    "eng": "silly (adj)",
+    "spelling": "/ˈsɪl.i/",
+    "vie": "ngờ nghệch, ngốc nghếch"
+  },
+  {
+    "eng": "silver (n, adj)",
+    "spelling": "/ˈsɪl.vɚ/",
+    "vie": "kim loại bạc; làm bằng bạc"
+  },
+  {
+    "eng": "similar (adj)",
+    "spelling": "/ˈsɪm.ə.lɚ/",
+    "vie": "giống nhau, tương tự"
+  },
+  {
+    "eng": "simple (adj)",
+    "spelling": "/ˈsɪm.pəl/",
+    "vie": "đơn giản, đơn điệu"
+  },
+  {
+    "eng": "single (adj)",
+    "spelling": "/ˈsɪŋ.ɡəl/",
+    "vie": "chỉ một; đơn độc, độc thân"
+  },
+  { "eng": "since (adv)", "spelling": "/sɪns/", "vie": "kể từ đó, từ khi ấy" },
+  { "eng": "sing (v)", "spelling": "/sɪŋ/", "vie": "hát, ca hát" },
+  {
+    "eng": "sink (n, v)",
+    "spelling": "/sɪŋk/",
+    "vie": "bồn rửa, chậu rửa; chìm, lún"
+  },
+  { "eng": "sister (n)", "spelling": "/ˈsɪs.tɚ", "vie": "chị, em gái" },
+  { "eng": "sit (v)", "spelling": "/sɪt/", "vie": "ngồi, cưỡi" },
+  { "eng": "six (n)", "spelling": "/sɪks/", "vie": "số 6" },
+  {
+    "eng": "size (n)",
+    "spelling": "/saɪz/",
+    "vie": "kích thước, kích cỡ, quy mô"
+  },
+  { "eng": "skill (n)", "spelling": "/skɪl/", "vie": "kỹ năng, kỹ thuật" },
+  { "eng": "skin (n)", "spelling": "/skɪn/", "vie": "da, bì, vỏ (hoa quả)" },
+  { "eng": "skirt (n)", "spelling": "/skɝːt/", "vie": "chân váy" },
+  { "eng": "sky (n)", "spelling": "/skaɪ/", "vie": "bầu trời" },
+  { "eng": "sleep (n, v)", "spelling": "/sliːp/", "vie": "giấc ngủ; ngủ" },
+  {
+    "eng": "slip (n, v)",
+    "spelling": "/slɪp/",
+    "vie": "sự trượt chân; trượt, tuột"
+  },
+  { "eng": "slow (adj)", "spelling": "/sloʊ/", "vie": "chậm chạp, lâu" },
+  { "eng": "small (adj)", "spelling": "/smɑːl/", "vie": "nhỏ bé" },
+  { "eng": "smell (n, v)", "spelling": "/smel/", "vie": "mùi, hương; ngửi" },
+  { "eng": "smile (n, v)", "spelling": "/smaɪl/", "vie": "nụ cười; cười mỉm" },
+  {
+    "eng": "smoke (n, v)",
+    "spelling": "/smoʊk/",
+    "vie": "khói, khói thuốc; hút thuốc, hun khói"
+  },
+  { "eng": "snow (n, v)", "spelling": "/snoʊ/", "vie": "tuyết; tuyết rơi" },
+  { "eng": "so (adv)", "spelling": "/soʊ/", "vie": "như thế, cũng vậy" },
+  {
+    "eng": "soap (n, v)",
+    "spelling": "/soʊp/",
+    "vie": "xà phòng; xát xà phòng"
+  },
+  { "eng": "sock (n)", "spelling": "/sɑːk/", "vie": "cái tất, vớ" },
+  { "eng": "soft (adj)", "spelling": "/sɑːft/", "vie": "mềm, nhẹ" },
+  { "eng": "some (det)", "spelling": "/sʌm/\r" },
+  { "eng": "/səm/", "spelling": "một vài, nào đó\r" },
+  {
+    "eng": "someone (pron)",
+    "spelling": "/ˈsʌm.wʌn/",
+    "vie": "ai đó, người nào đó"
+  },
+  {
+    "eng": "something (pron)",
+    "spelling": "/ˈsʌm.θɪŋ/",
+    "vie": "cái gì đó, vật nào đó"
+  },
+  {
+    "eng": "sometimes (adv)",
+    "spelling": "/ˈsʌm.taɪmz/",
+    "vie": "thỉnh thoảng, đôi khi"
+  },
+  {
+    "eng": "son (n)",
+    "spelling": "/sʌn/",
+    "vie": "(quan hệ với bố mẹ) con trai"
+  },
+  {
+    "eng": "soon (adv)",
+    "spelling": "/suːn/",
+    "vie": "sớm, không bao lâu nữa"
+  },
+  {
+    "eng": "sorry (exclamation, adj)",
+    "spelling": "/ˈsɔːr.i/",
+    "vie": "xin lỗi; lấy làm tiếc"
+  },
+  {
+    "eng": "sound (n, adj)",
+    "spelling": "/saʊnd/",
+    "vie": "âm thanh, tiếng động; đầy đủ, hoàn chỉnh, lành mạnh"
+  },
+  { "eng": "soup (n)", "spelling": "/suːp/", "vie": "món xúp, canh, cháo" },
+  {
+    "eng": "south (n, adj, adv)",
+    "spelling": "/saʊθ/",
+    "vie": "phương, hướng Nam; về phía Nam"
+  },
+  {
+    "eng": "space (n)",
+    "spelling": "/speɪs/",
+    "vie": "khoảng trống, không gian"
+  },
+  { "eng": "speak (v)", "spelling": "/spiːk/", "vie": "nói, phát ra âm thanh" },
+  {
+    "eng": "special (adj)",
+    "spelling": "/ˈspeʃ.əl/",
+    "vie": "đặc biệt, độc đáo, riêng biệt"
+  },
+  { "eng": "speed (n)", "spelling": "/spiːd/", "vie": "tốc độ" },
+  { "eng": "spell (n)", "spelling": "/spel/", "vie": "câu thần chú, bùa mê" },
+  {
+    "eng": "spend (v)",
+    "spelling": "/spend/",
+    "vie": "tiêu, chi tiêu, sử dụng (thời gian, tài nguyên…)"
+  },
+  { "eng": "spoon (n)", "spelling": "/spuːn/", "vie": "cái thìa" },
+  { "eng": "sport (n)", "spelling": "/spɔːrt/", "vie": "thể thao" },
+  {
+    "eng": "spread (n, v)",
+    "spelling": "/spred/",
+    "vie": "sự trải rộng, lan rộng; trải, giăng ra, truyền bá"
+  },
+  { "eng": "spring (n)", "spelling": "/sprɪŋ/", "vie": "mùa xuân" },
+  {
+    "eng": "square (n, adj)",
+    "spelling": "/skwer/",
+    "vie": "hình vuông, quảng trường; vuông"
+  },
+  {
+    "eng": "stamp (n, v)",
+    "spelling": "/stæmp/",
+    "vie": "con dấu, cái tem; đánh dấu, đóng tem"
+  },
+  {
+    "eng": "stand (n, v)",
+    "spelling": "/stænd/",
+    "vie": "chỗ đứng, vị trí đứng; đứng lên"
+  },
+  { "eng": "star (n)", "spelling": "/stɑːr/", "vie": "ngôi sao" },
+  {
+    "eng": "start (n, v)",
+    "spelling": "/stɑːrt/",
+    "vie": "sự bắt đầu, khởi đầu; bắt đầu"
+  },
+  { "eng": "station (n)", "spelling": "/ˈsteɪ.ʃən/", "vie": "trạm, ga" },
+  {
+    "eng": "stay (n, v)",
+    "spelling": "/steɪ/",
+    "vie": "sự ở lại, lưu tại; ở lại"
+  },
+  {
+    "eng": "steal (n, v)",
+    "spelling": "/stiːl/",
+    "vie": "giá hời, món hời; ăn cắp, ăn trộm"
+  },
+  { "eng": "steam (n, v)", "spelling": "/stiːm/", "vie": "hơi nước; bốc hơi" },
+  { "eng": "step (n, v)", "spelling": "/step/", "vie": "bước; bước đi" },
+  { "eng": "still (adv)", "spelling": "/stɪl/", "vie": "vẫn" },
+  { "eng": "stomach (n)", "spelling": "/ˈstʌm.ək/", "vie": "bụng, dạ dày" },
+  { "eng": "stone (n, adj)", "spelling": "/stoʊn/", "vie": "hòn đá; bằng đá" },
+  {
+    "eng": "stop (n, v)",
+    "spelling": "/stɑːp/",
+    "vie": "điểm dừng, trạm dừng; dừng lại, kết thúc"
+  },
+  {
+    "eng": "store (n, v)",
+    "spelling": "/stɔːr/",
+    "vie": "cửa hàng; dự trữ, cất giữ"
+  },
+  {
+    "eng": "storm (n, v)",
+    "spelling": "/stɔːrm/",
+    "vie": "cơn bão, giông bão; lao vào, xông vào"
+  },
+  {
+    "eng": "story (n)",
+    "spelling": "/ˈstɔːr.i/",
+    "vie": "câu chuyện; tầng lầu"
+  },
+  { "eng": "strange (adj)", "spelling": "/streɪndʒ/", "vie": "kỳ lạ, lạ lùng" },
+  { "eng": "street (n)", "spelling": "/striːt/", "vie": "đường phố" },
+  {
+    "eng": "strawberry (n)",
+    "spelling": "/ˈstrɑːˌber.i/",
+    "vie": "quả dâu tây"
+  },
+  { "eng": "strong (adj)", "spelling": "/strɑːŋ/", "vie": "mạnh, vững vàng" },
+  {
+    "eng": "structure (n)",
+    "spelling": "/ˈstrʌk.tʃɚ/",
+    "vie": "cấu trúc, kết cấu"
+  },
+  {
+    "eng": "student (n)",
+    "spelling": "/ˈstuː.dənt/",
+    "vie": "học sinh, sinh viên"
+  },
+  {
+    "eng": "study (n, v)",
+    "spelling": "/ˈstʌd.i/",
+    "vie": "bài nghiên cứu; học, nghiên cứu"
+  },
+  {
+    "eng": "stupid (adj)",
+    "spelling": "/ˈstuː.pɪd/",
+    "vie": "ngu dốt, dại dột"
+  },
+  {
+    "eng": "subject (n)",
+    "spelling": "/ˈsʌb.dʒekt/",
+    "vie": "chủ đề, chủ ngữ"
+  },
+  {
+    "eng": "substance (n)",
+    "spelling": "/ˈsʌb.stəns/",
+    "vie": "vật liệu, chất liệu, vật chất"
+  },
+  {
+    "eng": "successful (adj)",
+    "spelling": "/səkˈses.fəl/",
+    "vie": "thành công, thắng lợi"
+  },
+  {
+    "eng": "such (pret, pron)",
+    "spelling": "/sʌtʃ/",
+    "vie": "như vậy, như thế; cái đó, điều đó"
+  },
+  {
+    "eng": "sudden (adj)",
+    "spelling": "/ˈsʌd.ən/",
+    "vie": "thỉnh lình, đột ngột"
+  },
+  { "eng": "sugar (n)", "spelling": "/ˈʃʊɡ.ɚ/", "vie": "đường" },
+  {
+    "eng": "suitable (adj)",
+    "spelling": "/ˈsuː.t̬ə.bəl/",
+    "vie": "phù hợp, thích hợp"
+  },
+  { "eng": "summer (n)", "spelling": "/ˈsʌm.ɚ/", "vie": "mùa hè, mùa hạ" },
+  { "eng": "sun (n)", "spelling": "/sʌn/", "vie": "mặt trời" },
+  {
+    "eng": "sunny (adj)",
+    "spelling": "/ˈsʌn.i/",
+    "vie": "có nắng; vui vẻ, vui tươi"
+  },
+  {
+    "eng": "support (n, v)",
+    "spelling": "/səˈpɔːrt/",
+    "vie": "sự hỗ trợ, sự giúp đỡ; người ủng hộ; ủng hộ, cổ vũ"
+  },
+  { "eng": "sure (adj)", "spelling": "/ʃʊr/", "vie": "chắc chắn, cam đoan" },
+  {
+    "eng": "surprise (n, v)",
+    "spelling": "/sɚˈpraɪz/",
+    "vie": "sự ngạc nhiên, sửng sốt, bất ngờ; làm ngạc nhiên, gây bất ngờ"
+  },
+  { "eng": "sweet (n, v)", "spelling": "/swiːt/", "vie": "kẹo; ngọt ngào" },
+  { "eng": "swim (v)", "spelling": "/swɪm/", "vie": "bơi lội" },
+  { "eng": "sword (n)", "spelling": "/sɔːrd/", "vie": "gươm, kiếm, đao" },
+  { "eng": "table (n)", "spelling": "/ˈteɪ.bəl/", "vie": "cái bàn" },
+  {
+    "eng": "take (n, v)",
+    "spelling": "/teɪk/",
+    "vie": "sự cầm, nắm; cầm, nắm, lấy"
+  },
+  {
+    "eng": "talk (n, v)",
+    "spelling": "/tɑːk/",
+    "vie": "cuộc nói chuyện, cuộc thảo luận; trò chuyện, bàn bạc"
+  },
+  {
+    "eng": "tall (adj)",
+    "spelling": "/tɑːl/",
+    "vie": "(dành cho người, động vật) cao"
+  },
+  { "eng": "taste (n, v)", "spelling": "/teɪst/", "vie": "vị, sự nếm; nếm" },
+  { "eng": "taxi (n)", "spelling": "/ˈtæk.si/", "vie": "xe tắc xi" },
+  { "eng": "tea (n)", "spelling": "/tiː/", "vie": "nước chè, trà" },
+  { "eng": "teach (v)", "spelling": "/tiːtʃ/", "vie": "dạy học, giảng dạy" },
+  { "eng": "team (n)", "spelling": "/tiːm/", "vie": "đội, nhóm" },
+  { "eng": "tear (n)", "spelling": "/ter/", "vie": "nước mắt, lệ" },
+  {
+    "eng": "telephone (n)",
+    "spelling": "/ˈtel.ə.foʊn/",
+    "vie": "điện thoại có dây"
+  },
+  {
+    "eng": "television (n)",
+    "spelling": "/ˈtel.ə.vɪʒ.ən/",
+    "vie": "chương trình truyền hình; TV"
+  },
+  { "eng": "tell (v)", "spelling": "/tel/", "vie": "nói, chỉ cho, cho biết" },
+  { "eng": "ten (n)", "spelling": "/ten/", "vie": "số 10" },
+  { "eng": "tennis (n)", "spelling": "/ˈten.ɪs/", "vie": "quần vợt" },
+  {
+    "eng": "terrible (adj)",
+    "spelling": "/ˈter.ə.bəl/",
+    "vie": "khủng khiếp, thậm tệ, ghê gớm"
+  },
+  {
+    "eng": "test (n, v)",
+    "spelling": "/test/",
+    "vie": "bài kiểm tra, bài sát hạch; thử thách, kiểm tra"
+  },
+  { "eng": "than (prep, conj)", "spelling": "/ðæn/\r" },
+  { "eng": "/ðən/", "spelling": "(so sánh) hơn, thà…còn hơn\r" },
+  { "eng": "that (det)", "spelling": "/ðæt/", "vie": "ấy, kia, đó" },
+  { "eng": "the (det)", "spelling": "/ðiː/\r" },
+  { "eng": "/ðə", "spelling": "ấy, này, (vật, người…) duy nhất\r" },
+  { "eng": "their (det)", "spelling": "/ðer/", "vie": "của chúng nó, của họ" },
+  {
+    "eng": "then (adv, adj)",
+    "spelling": "/ðen/",
+    "vie": "khi đó, lúc đó; ở thời điểm đó, hồi ấy"
+  },
+  { "eng": "there (adv)", "spelling": "/ðer/", "vie": "ở nơi đó, tại đó" },
+  {
+    "eng": "therefore (adv)",
+    "spelling": "/ˈðer.fɔːr/",
+    "vie": "bởi vậy, vì thế"
+  },
+  {
+    "eng": "these (pron, det)",
+    "spelling": "/ðiːz/",
+    "vie": "những cái này, những thứ này"
+  },
+  { "eng": "thick (adj)", "spelling": "/θɪk/", "vie": "dày, rậm rạp, đặc sệt" },
+  { "eng": "thin (adj)", "spelling": "/θɪn/", "vie": "mỏng, mảnh mai" },
+  { "eng": "thing (n)", "spelling": "/θɪŋ/", "vie": "cái, đồ, vật, thứ" },
+  { "eng": "think (v)", "spelling": "/θɪŋk/", "vie": "suy nghĩ" },
+  {
+    "eng": "third (n, det, adv)",
+    "spelling": "/θɝːd/",
+    "vie": "người về thứ ba, người thứ ba; thứ ba; ở vị trí thứ ba"
+  },
+  {
+    "eng": "this (det, pron)",
+    "spelling": "/ðɪs/",
+    "vie": "(cái) này; điều này, việc này, thế này"
+  },
+  {
+    "eng": "though (conj)",
+    "spelling": "/ðoʊ/",
+    "vie": "dù, mặc dù, tuy vậy, tuy nhiên"
+  },
+  { "eng": "threat (n)", "spelling": "/θret/", "vie": "sự đe dọa, lời đe dọa" },
+  { "eng": "three (n)", "spelling": "/θriː/", "vie": "số 3" },
+  {
+    "eng": "tidy (adj, v)",
+    "spelling": "/ˈtaɪ.di/",
+    "vie": "sạch sẽ, ngăn nắp; dọn dẹp"
+  },
+  {
+    "eng": "tie (n, v)",
+    "spelling": "/taɪ/",
+    "vie": "dây buộc, cà vạt; buộc, thắt"
+  },
+  {
+    "eng": "title (n)",
+    "spelling": "/ˈtaɪ.t̬əl/",
+    "vie": "danh nghĩa, danh hiệu, nhan đề"
+  },
+  { "eng": "to (prep)", "spelling": "/tuː/\r" },
+  { "eng": "/tə/", "spelling": "theo, tới, để\r" },
+  { "eng": "today (n)", "spelling": "/təˈdeɪ/", "vie": "hôm nay, ngày nay" },
+  { "eng": "toe (n)", "spelling": "/toʊ/", "vie": "ngón chân" },
+  {
+    "eng": "together (adv)",
+    "spelling": "/təˈɡeð.ɚ/",
+    "vie": "cùng nhau, với nhau"
+  },
+  { "eng": "tomorrow (n, adv)", "spelling": "/təˈmɔːr.oʊ/", "vie": "ngày mai" },
+  { "eng": "tonight (n, adv)", "spelling": "/təˈnaɪt/", "vie": "tối nay" },
+  { "eng": "too (adv)", "spelling": "/tuː/", "vie": "cũng vậy, cũng như thế" },
+  { "eng": "tool (n)", "spelling": "/tuːl/", "vie": "công cụ, thiết bị" },
+  { "eng": "tooth (n)", "spelling": "/tuːθ/", "vie": "cái răng" },
+  {
+    "eng": "top (n, v)",
+    "spelling": "/tɑːp/",
+    "vie": "chóp, đỉnh, hàng đầu; đặt ở trên, lên trên đỉnh"
+  },
+  { "eng": "total (n)", "spelling": "/ˈtoʊ.t̬əl/", "vie": "tổng cộng, toàn bộ" },
+  {
+    "eng": "touch (n, v)",
+    "spelling": "/tʌtʃ/",
+    "vie": "sự sờ, cái chạm; chạm vào, tiếp xúc"
+  },
+  {
+    "eng": "town (n)",
+    "spelling": "/taʊn/",
+    "vie": "thị trấn, thành phố (nhỏ)"
+  },
+  { "eng": "train (n)", "spelling": "/treɪn/", "vie": "xe lửa, đoàn tàu hỏa" },
+  { "eng": "tram (n)", "spelling": "/træm/", "vie": "xe trở khách, xe điện" },
+  {
+    "eng": "travel (n, v)",
+    "spelling": "/ˈtræv.əl/",
+    "vie": "chuyến đi; đi du lịch, khám phá"
+  },
+  { "eng": "tree (n)", "spelling": "/triː/", "vie": "cái cây" },
+  {
+    "eng": "trouble (n)",
+    "spelling": "/ˈtrʌb.əl/",
+    "vie": "vấn đề, rắc rối, mối phiền phức"
+  },
+  { "eng": "TRUE (adj)", "spelling": "/truː/", "vie": "đúng, chính xác" },
+  {
+    "eng": "trust (n, v)",
+    "spelling": "/trʌst/",
+    "vie": "sự tín nhiệm, lòng tin; tin tưởng"
+  },
+  {
+    "eng": "twice (pret, adv)",
+    "spelling": "/twaɪs/",
+    "vie": "hai lần, gấp đôi"
+  },
+  {
+    "eng": "try (n, v)",
+    "spelling": "/traɪ/",
+    "vie": "sự thử sức; thử, làm thử"
+  },
+  {
+    "eng": "turn (n, v)",
+    "spelling": "/tɝːn/",
+    "vie": "lượt, sự quay vòng; quay, vặn"
+  },
+  {
+    "eng": "type (n, v)",
+    "spelling": "/taɪp/",
+    "vie": "loại, thể loại; đánh máy"
+  },
+  {
+    "eng": "ugly (adj)",
+    "spelling": "/ˈʌɡ.li/",
+    "vie": "xấu xí, không hấp dẫn"
+  },
+  { "eng": "uncle (n)", "spelling": "/ˈʌŋ.kəl/", "vie": "chú, bác, cậu" },
+  {
+    "eng": "under (prep)",
+    "spelling": "/ˈʌn.dɚ/",
+    "vie": "(vị trí, thứ hạng) ở dưới"
+  },
+  {
+    "eng": "understand (v)",
+    "spelling": "/ˌʌn.dɚˈstænd/",
+    "vie": "hiểu, thấu hiểu, thông cảm"
+  },
+  { "eng": "unit (n)", "spelling": "/ˈjuː.nɪt/", "vie": "đơn vị, một khối" },
+  { "eng": "until (prep, conj)", "spelling": "/ʌnˈtɪl/\r" },
+  { "eng": "/ənˈtɪl/", "spelling": "trước khi, cho đến khi\r" },
+  {
+    "eng": "up (adv, prep)",
+    "spelling": "/ʌp/",
+    "vie": "ở trên, lên phía trên;"
+  },
+  { "eng": "use (n, v)", "spelling": "/juːz/", "vie": "sự sử dụng; dùng" },
+  {
+    "eng": "useful (adj)",
+    "spelling": "/ˈjuːs.fəl/",
+    "vie": "hữu ích, có ích"
+  },
+  {
+    "eng": "usual (adj)",
+    "spelling": "/ˈjuː.ʒu.əl/",
+    "vie": "thông thường, thường lệ, như mọi khi"
+  },
+  {
+    "eng": "usually (adv)",
+    "spelling": "/ˈjuː.ʒu.ə.li/",
+    "vie": "theo cách thông thường, như thường lệ"
+  },
+  {
+    "eng": "vegetable (n, adj)",
+    "spelling": "/ˈvedʒ.tə.bəl/",
+    "vie": "(thuộc) thực vật; rau, củ"
+  },
+  { "eng": "very (adv)", "spelling": "/ˈver.i/", "vie": "hết sức, rất, quá" },
+  { "eng": "village (n, adj)", "spelling": "/ˈvɪl.ɪdʒ/", "vie": "làng, xã" },
+  {
+    "eng": "voice (n, v)",
+    "spelling": "/vɔɪs/",
+    "vie": "tiếng nói, giọng nói; bày tỏ, nói lên"
+  },
+  {
+    "eng": "visit (n, v)",
+    "spelling": "/ˈvɪz.ɪt/",
+    "vie": "chuyến thăm, cuộc viếng thăm; thăm thú, thăm viếng"
+  },
+  {
+    "eng": "wait (n, v)",
+    "spelling": "/weɪt/",
+    "vie": "sự chờ đợi, thời gian chờ đợi; chờ đợi"
+  },
+  { "eng": "wake (v)", "spelling": "/weɪk/", "vie": "thức giấc, đánh thức" },
+  {
+    "eng": "walk (n, v)",
+    "spelling": "/wɑːk/",
+    "vie": "cuộc đi bộ, sự tản bộ; đi bộ, đi dạo"
+  },
+  {
+    "eng": "want (n, v)",
+    "spelling": "/wɑːnt/",
+    "vie": "mong muốn, nhu cầu; mong ước"
+  },
+  {
+    "eng": "warm (adj, v)",
+    "spelling": "/wɔːrm/",
+    "vie": "ấm áp, âu yếm; làm nóng lên, hâm nóng lên, làm ấm lên"
+  },
+  {
+    "eng": "was (v)",
+    "spelling": "/wɑːz/",
+    "vie": "thì, là (trong quá khứ cho ngôi thứ ba, thứ nhất và danh từ số ít)"
+  },
+  { "eng": "wash (n, v)", "spelling": "/wɑːʃ/", "vie": "sự tắm rửa; gột rửa" },
+  {
+    "eng": "waste (n, v)",
+    "spelling": "/weɪst/",
+    "vie": "rác rưởi, đồ thừa; vứt bỏ, lãng phí"
+  },
+  {
+    "eng": "watch (n, v)",
+    "spelling": "/wɑːtʃ/",
+    "vie": "đồng hồ, sự canh gác; canh gác, quan sát, nhìn ngắm"
+  },
+  { "eng": "water (n)", "spelling": "/ˈwɑː.t̬ɚ/", "vie": "nước" },
+  {
+    "eng": "way (n)",
+    "spelling": "/weɪ/",
+    "vie": "đường đi, lối đi, cách làm"
+  },
+  { "eng": "we (pron)", "spelling": "/wiː/\r" },
+  { "eng": "/wi/", "spelling": "chúng tôi, chúng ta\r" },
+  {
+    "eng": "weak (adj)",
+    "spelling": "/wiːk/",
+    "vie": "yếu ớt, yếu đuối, mềm mỏng"
+  },
+  { "eng": "wear (n, v)", "spelling": "/wer/", "vie": "đồ để mặc; mặc, đeo" },
+  { "eng": "weather (n)", "spelling": "/ˈweð.ɚ/", "vie": "thời tiết" },
+  { "eng": "wedding (n)", "spelling": "/ˈwed.ɪŋ/", "vie": "đám cưới" },
+  { "eng": "week (n)", "spelling": "/wiːk/", "vie": "tuần" },
+  {
+    "eng": "weight (n)",
+    "spelling": "/weɪt/",
+    "vie": "trọng lượng, sức nặng, cân nặng"
+  },
+  {
+    "eng": "welcome (v, adj)",
+    "spelling": "/ˈwel.kəm/",
+    "vie": "chào đón, tiếp đón; được hoan nghênh"
+  },
+  { "eng": "were (v)", "spelling": "/wɝː/\r" },
+  {
+    "eng": "/wɚ/",
+    "spelling": "thì, là (trong quá khứ cho ngôi thứ nhất và danh từ số nhiều)\r"
+  },
+  { "eng": "well (adv)", "spelling": "/wel/", "vie": "tốt, hay, sâu sắc" },
+  {
+    "eng": "west (n, adj, adv)",
+    "spelling": "/west/",
+    "vie": "phương, hướng Tây; về phía Tây"
+  },
+  { "eng": "wet (adj)", "spelling": "/wet/", "vie": "ướt, đẫm nước" },
+  {
+    "eng": "what (det, pron, exclamation)",
+    "spelling": "/wɑːt/",
+    "vie": "cái gì, thế nào, thì sao"
+  },
+  {
+    "eng": "wheel (n)",
+    "spelling": "/wiːl/",
+    "vie": "bánh xe, bánh lái, tay lái"
+  },
+  {
+    "eng": "when (adv, conj)",
+    "spelling": "/wen/",
+    "vie": "vào lúc nào, khi nào, bao giờ"
+  },
+  { "eng": "where (adv, conj)", "spelling": "/wer/", "vie": "ở đâu, chỗ nào" },
+  {
+    "eng": "which (det, pron)",
+    "spelling": "/wɪtʃ/",
+    "vie": "gì, cái nào (trong số những cái đã liệt kê); cái mà"
+  },
+  {
+    "eng": "while (conj)",
+    "spelling": "/waɪl/",
+    "vie": "trong khi, trong lúc"
+  },
+  { "eng": "white (n)", "spelling": "/waɪt/", "vie": "(màu sắc) trắng" },
+  { "eng": "who (pron)", "spelling": "/huː/", "vie": "ai, người nào" },
+  { "eng": "why (adv)", "spelling": "/waɪ/", "vie": "vì sao, tại sao" },
+  { "eng": "wide (adj)", "spelling": "/waɪd/", "vie": "rộng, rộng lớn" },
+  { "eng": "wife (n)", "spelling": "/waɪf/", "vie": "vợ, phu nhân" },
+  { "eng": "wild (adj)", "spelling": "/waɪld/", "vie": "hoang dã, hoang dại" },
+  { "eng": "will (modal verb)", "spelling": "/wɪl/", "vie": "sẽ" },
+  {
+    "eng": "win (n, v)",
+    "spelling": "/wɪn/",
+    "vie": "sự thắng cuộc; chiến thắng"
+  },
+  { "eng": "wind (n)", "spelling": "/wɪnd/", "vie": "gió" },
+  { "eng": "window (n)", "spelling": "/ˈwɪn.doʊ/", "vie": "cửa sổ" },
+  { "eng": "wine (n)", "spelling": "/waɪn/", "vie": "rượu vang" },
+  { "eng": "winter (n)", "spelling": "/ˈwɪn.t̬ɚ/", "vie": "mùa đông" },
+  { "eng": "wire (n)", "spelling": "/waɪr", "vie": "dây nối (kim loại)" },
+  { "eng": "wise (adj)", "spelling": "/waɪz/", "vie": "khôn ngoan, sáng suốt" },
+  {
+    "eng": "wish (n, v)",
+    "spelling": "/wɪʃ/",
+    "vie": "điều ước, sự mong mỏi; mong ước, cầu nguyện"
+  },
+  { "eng": "with (prep)", "spelling": "/wɪð/", "vie": "cùng với" },
+  {
+    "eng": "without (prep, adv)",
+    "spelling": "/wɪˈðaʊt/",
+    "vie": "không có, thiếu vắng"
+  },
+  { "eng": "woman (n)", "spelling": "/ˈwʊm.ən/", "vie": "đàn bà, phụ nữ" },
+  {
+    "eng": "wonder (n, v)",
+    "spelling": "/ˈwʌn.dɚ/",
+    "vie": "điều kỳ diệu, kỳ quan; kinh ngạc, bất ngờ"
+  },
+  { "eng": "word (n)", "spelling": "/wɝːd/", "vie": "từ" },
+  {
+    "eng": "work (n, v)",
+    "spelling": "/wɝːk/",
+    "vie": "công việc, việc làm; lao động, làm việc"
+  },
+  { "eng": "world (n)", "spelling": "/wɝːld/", "vie": "thế giới" },
+  {
+    "eng": "worry (n, v)",
+    "spelling": "/ˈwɝː.i/",
+    "vie": "mối lo, mối bận tâm; lo lắng, quấy rầy"
+  },
+  {
+    "eng": "yard (n)",
+    "spelling": "/jɑːrd/",
+    "vie": "sân có rào, mảnh sân, sân bãi"
+  },
+  {
+    "eng": "yell (n, v)",
+    "spelling": "/jel/",
+    "vie": "sự kêu la, sự la hét; la hét, quát tháo"
+  },
+  {
+    "eng": "yesterday (n, adv)",
+    "spelling": "/ˈjes.tɚ.deɪ/",
+    "vie": "ngày hôm qua"
+  },
+  {
+    "eng": "yet (adv)",
+    "spelling": "/jet/",
+    "vie": "còn, hãy còn, chưa kết thúc"
+  },
+  { "eng": "you (pron)", "spelling": "/juː/\r" },
+  { "eng": "/jə/\r" },
+  { "eng": "/jʊ/", "spelling": "(xưng hô) đối phương, bạn, anh, chị…\r" },
+  { "eng": "young (adj)", "spelling": "/jʌŋ/", "vie": "trẻ trung, ít tuổi" },
+  { "eng": "your (det)", "spelling": "/jʊr/\r" },
+  { "eng": "/jɚ/", "spelling": "của bạn, của anh, của chị…\r" },
+  { "eng": "zero (n)", "spelling": "/ˈzɪr.oʊ/", "vie": "số 0" },
+  { "eng": "zoo (n)", "spelling": "/zuː/", "vie": "sở thú" }
+]

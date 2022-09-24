@@ -1,0 +1,28 @@
+.pageContainer {
+  background-color: #78b6fc;
+  min-height: 100vh;
+}
+
+.pageContainerDecor {
+  border: 20px solid rgb(187, 218, 253, 0);
+  min-height: calc(100vh - 40px);
+}
+.container {
+  border: 10px solid rgb(187, 218, 253, 0.99);
+  border-radius: 10px;
+  background-color: rgb(187, 218, 253, 0.99);
+  min-height: calc(100vh - 60px);
+}
+
+.content {
+  background-color: white;
+  border-radius: 10px !important;
+  font-family: "Utm Avo";
+  min-height: calc(100vh - 60px);
+  padding: 5vh 5vw;
+}
+
+.hrClass {
+  opacity: 0.2;
+  color: "black";
+}
