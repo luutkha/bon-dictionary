@@ -110,7 +110,6 @@ export const splashCardSlice = createSlice({
   reducers: {
     setCurrentListSplash: (state, action: PayloadAction<number>) => {
       const listWords = [...state.listWords];
-      console.log(listWords);
       const nItems = _.sampleSize(listWords, action.payload);
       state.currentListSplash = nItems;
       state.currentSplashCardDashBoard.length = MAX_WORD_DASHBOARD * 2;
@@ -122,7 +121,6 @@ export const splashCardSlice = createSlice({
       var dashbroadIndexListVie = Array.from(Array(MAX_WORD_DASHBOARD).keys());
 
       for (let index = 0; index < MAX_WORD_DASHBOARD; index++) {
-        console.log(dashbroadIndexListEng);
         const word = randomDataForDashBroad[index];
         const get_random = (list: number[]) => {
           return list[Math.floor(Math.random() * list.length)];
@@ -160,6 +158,9 @@ export const splashCardSlice = createSlice({
           console.log(randomIndexEng);
         }
       }
+      state.currentListSplash = state.currentListSplash.filter((sample) =>
+        state.currentSplashCardDashBoard.map((c) => c.data !== sample)
+      );
     },
     setListWords: (state, action: PayloadAction<Word[]>) => {
       state.listWords = action.payload;
@@ -168,6 +169,7 @@ export const splashCardSlice = createSlice({
       state,
       action: PayloadAction<number>
     ) => {
+      // fixed un-correct case (matched: false ===> undefined )
       state.currentSplashCardDashBoard.map((card, index) => {
         if (
           index !== state.currentEnIndex &&
@@ -178,6 +180,81 @@ export const splashCardSlice = createSlice({
         }
         return card;
       });
+
+      const addNewCard = () => {
+        const totalMatchedCard = state.currentSplashCardDashBoard.reduce(
+          (returnValue, card) => {
+            if (card.isMatched === true) return returnValue + 1;
+            else return returnValue;
+          },
+          0
+        );
+        console.log("total matched card: ", totalMatchedCard);
+        if (totalMatchedCard / 2 >= 3) {
+          const listCard = [...state.currentSplashCardDashBoard];
+          var dashbroadIndexListEng: number[] = [];
+          var dashbroadIndexListVie: number[] = [];
+
+          listCard.forEach((c, index) => {
+            if (c.isMatched === true && index % 2 === 0) {
+              dashbroadIndexListEng.push(index);
+            }
+          });
+
+          listCard.forEach((c, index) => {
+            if (c.isMatched === true && index % 2 === 1) {
+              dashbroadIndexListVie.push(index);
+            }
+          });
+
+          //start add new card to dashbroad
+          const lengthToLoop = dashbroadIndexListEng.length;
+          for (let index = 0; index < lengthToLoop; index++) {
+            const word = state.currentListSplash[index];
+            const get_random = (list: number[]) => {
+              return list[Math.floor(Math.random() * list.length)];
+            };
+            let randomIndexEng = get_random(dashbroadIndexListEng);
+            let randomIndexVie = get_random(dashbroadIndexListVie);
+
+            console.log(randomIndexEng);
+            if (randomIndexEng !== undefined && randomIndexVie !== undefined) {
+              console.log("check");
+              word.eng = word.eng.split("(")[0];
+              state.currentSplashCardDashBoard[randomIndexEng] = {
+                data: word,
+                isSelected: false,
+                otherSideId: randomIndexVie,
+                type: "En",
+                isMatched: undefined,
+              };
+              state.currentSplashCardDashBoard[randomIndexVie] = {
+                data: word,
+                isSelected: false,
+                otherSideId: randomIndexEng,
+                type: "Vi",
+                isMatched: undefined,
+              };
+              dashbroadIndexListEng = [...dashbroadIndexListEng].filter(
+                (e) => e !== randomIndexEng
+              );
+              dashbroadIndexListVie = [...dashbroadIndexListVie].filter(
+                (e) => e !== randomIndexVie
+              );
+            } else {
+              console.log("có undefine");
+              console.log(randomIndexVie);
+              console.log(randomIndexEng);
+            }
+          }
+        }
+        state.currentListSplash = state.currentListSplash.filter((sample) =>
+          state.currentSplashCardDashBoard.map((c) => c.data !== sample)
+        );
+      };
+
+      addNewCard();
+
       const setCurrentIndex = (
         type: "En" | "Vi" | "All",
         value: undefined | number
@@ -195,17 +272,35 @@ export const splashCardSlice = createSlice({
             break;
         }
       };
+      const clearOldCurrentIdIfSameType = (type: "En" | "Vi") => {
+        switch (type) {
+          case "En":
+            if (state.currentEnIndex) {
+              state.currentSplashCardDashBoard[
+                state.currentEnIndex
+              ].isSelected = false;
+            }
+            break;
+          case "Vi":
+            if (state.currrentViIndex) {
+              state.currentSplashCardDashBoard[
+                state.currrentViIndex
+              ].isSelected = false;
+            }
+            break;
+        }
+      };
       const id = action.payload;
       const currentCard = state.currentSplashCardDashBoard[id];
-
       if (currentCard.isSelected) {
         setCurrentIndex(currentCard.type, undefined);
         state.currentSplashCardDashBoard[id].isSelected = false;
       } else {
+        clearOldCurrentIdIfSameType(currentCard.type);
         currentCard.isSelected = true;
         state.currentSplashCardDashBoard[id] = currentCard;
         setCurrentIndex(currentCard.type, id);
-        
+
         const checkOtherIdMatched = (type: "En" | "Vi", id: number) => {
           const otherSideId = currentCard.otherSideId;
           switch (type) {
@@ -243,10 +338,6 @@ export const splashCardSlice = createSlice({
             setCurrentIndex("All", undefined);
           }
         } else {
-          console.log("undefined check");
-          console.log(state.currentEnIndex);
-          console.log(state.currrentViIndex);
-
           //just do nothing
         }
       }

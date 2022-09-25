@@ -5,20 +5,20 @@ import { splashCardAction } from "../../redux/action/splash-card.action";
 import { useAppDispatch } from "../../redux/hooks";
 import {
   setCurrentListSplash,
+  setListWords,
   updateCurrenrSplashCardDashBroad,
 } from "../../redux/slice/splash-card.slice";
+import toeicData from "../../data/toeic.json";
 import { useSplashCardStore } from "../../redux/store";
+import { Word } from "../../types/common.type";
 type Props = {};
 
 export const ToeicSplashCardPage = (props: Props) => {
   const dispatch = useAppDispatch();
+  const data = toeicData as Word[];
   const { listWords, currentSplashCardDashBoard } = useSplashCardStore();
   useEffect(() => {
-    console.log("check");
-    dispatch(splashCardAction.getDataFromJson());
-  }, [dispatch]);
-
-  useEffect(() => {
+    dispatch(setListWords(data));
     if (listWords.length > 1) dispatch(setCurrentListSplash(50));
   }, [dispatch, listWords.length]);
   const handleCardClick = (id: number) => {

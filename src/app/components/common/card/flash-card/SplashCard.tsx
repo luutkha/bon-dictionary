@@ -50,6 +50,16 @@ const unMatchedAnimation = keyframes`
   border: 2px solid #e0e0e0;
 }
 `;
+const fadeOn = keyframes`
+0%{
+  opacity: 0;
+}
+
+
+100%{
+  opacity: 1;
+}
+`;
 const Container = styled.div<{
   isSelected: boolean;
   isMatched: boolean | undefined;
@@ -70,13 +80,13 @@ const Container = styled.div<{
   animation-duration: 1.5s;
   animation-name: ${(props) =>
     props.isMatched === undefined
-      ? ``
+      ? fadeOn
       : props.isMatched === false
       ? unMatchedAnimation
       : matchedAnimation};
   animation-fill-mode: forwards;
 
-  &:hover {
+  /* &:hover {
     border: 2px solid #78b6fc;
     box-shadow: 1px -2px 18px 3px rgba(0, 0, 0, 0.1);
     -webkit-box-shadow: 1px -2px 18px 3px rgba(0, 0, 0, 0.1);
@@ -89,7 +99,7 @@ const Container = styled.div<{
     box-shadow: rgba(240, 46, 170, 0.4) 5px 5px,
       rgba(240, 46, 170, 0.3) 10px 10px, rgba(240, 46, 170, 0.2) 15px 15px,
       rgba(240, 46, 170, 0.1) 20px 20px, rgba(240, 46, 170, 0.05) 25px 25px;
-  }
+  } */
 `;
 
 const Content = styled.div`
