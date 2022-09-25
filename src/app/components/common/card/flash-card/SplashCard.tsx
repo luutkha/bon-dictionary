@@ -84,22 +84,13 @@ const Container = styled.div<{
       : props.isMatched === false
       ? unMatchedAnimation
       : matchedAnimation};
+  pointer-events: ${(props) =>
+    props.isMatched === undefined
+      ? fadeOn
+      : props.isMatched === false
+      ? `none`
+      : `none`};
   animation-fill-mode: forwards;
-
-  /* &:hover {
-    border: 2px solid #78b6fc;
-    box-shadow: 1px -2px 18px 3px rgba(0, 0, 0, 0.1);
-    -webkit-box-shadow: 1px -2px 18px 3px rgba(0, 0, 0, 0.1);
-    -moz-box-shadow: 1px -2px 18px 3px rgba(0, 0, 0, 0.1);
-
-    border-top: 2px solid blueviolet;
-    border-left: 2px solid blueviolet;
-    border-bottom: 2px solid rgb(238, 103, 238);
-    border-right: 2px solid rgb(238, 103, 238);
-    box-shadow: rgba(240, 46, 170, 0.4) 5px 5px,
-      rgba(240, 46, 170, 0.3) 10px 10px, rgba(240, 46, 170, 0.2) 15px 15px,
-      rgba(240, 46, 170, 0.1) 20px 20px, rgba(240, 46, 170, 0.05) 25px 25px;
-  } */
 `;
 
 const Content = styled.div`
