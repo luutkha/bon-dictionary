@@ -158,9 +158,12 @@ export const splashCardSlice = createSlice({
           console.log(randomIndexEng);
         }
       }
-      state.currentListSplash = state.currentListSplash.filter((sample) =>
-        state.currentSplashCardDashBoard.map((c) => c.data !== sample)
-      );
+      state.currentListSplash = state.currentListSplash.filter((sample) => {
+        const lengthMatch = state.currentSplashCardDashBoard.filter(
+          (c) => c.data === sample
+        ).length;
+        return lengthMatch === 0;
+      });
     },
     setListWords: (state, action: PayloadAction<Word[]>) => {
       state.listWords = action.payload;
@@ -170,6 +173,7 @@ export const splashCardSlice = createSlice({
       action: PayloadAction<number>
     ) => {
       // fixed un-correct case (matched: false ===> undefined )
+
       state.currentSplashCardDashBoard.map((card, index) => {
         if (
           index !== state.currentEnIndex &&
@@ -209,8 +213,13 @@ export const splashCardSlice = createSlice({
 
           //start add new card to dashbroad
           const lengthToLoop = dashbroadIndexListEng.length;
+          const randomDataForDashBroad = [
+            ..._.sampleSize(state.currentListSplash, lengthToLoop),
+          ];
+          console.log(state.currentListSplash);
+          console.log(randomDataForDashBroad);
           for (let index = 0; index < lengthToLoop; index++) {
-            const word = state.currentListSplash[index];
+            const word = randomDataForDashBroad[index];
             const get_random = (list: number[]) => {
               return list[Math.floor(Math.random() * list.length)];
             };
@@ -220,6 +229,7 @@ export const splashCardSlice = createSlice({
             console.log(randomIndexEng);
             if (randomIndexEng !== undefined && randomIndexVie !== undefined) {
               console.log("check");
+              console.log(word);
               word.eng = word.eng.split("(")[0];
               state.currentSplashCardDashBoard[randomIndexEng] = {
                 data: word,
@@ -248,9 +258,12 @@ export const splashCardSlice = createSlice({
             }
           }
         }
-        state.currentListSplash = state.currentListSplash.filter((sample) =>
-          state.currentSplashCardDashBoard.map((c) => c.data !== sample)
-        );
+        state.currentListSplash = state.currentListSplash.filter((sample) => {
+          const lengthMatch = state.currentSplashCardDashBoard.filter(
+            (c) => c.data === sample
+          ).length;
+          return lengthMatch === 0;
+        });
       };
 
       addNewCard();
@@ -275,14 +288,14 @@ export const splashCardSlice = createSlice({
       const clearOldCurrentIdIfSameType = (type: "En" | "Vi") => {
         switch (type) {
           case "En":
-            if (state.currentEnIndex) {
+            if (state.currentEnIndex !== undefined) {
               state.currentSplashCardDashBoard[
                 state.currentEnIndex
               ].isSelected = false;
             }
             break;
           case "Vi":
-            if (state.currrentViIndex) {
+            if (state.currrentViIndex !== undefined) {
               state.currentSplashCardDashBoard[
                 state.currrentViIndex
               ].isSelected = false;

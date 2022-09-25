@@ -15,11 +15,11 @@ const listCard: TopicCardProps[] = [
     content: "Learn 1000 words of Toeic",
     route: "/toeic",
   },
-  {
-    title: "Other",
-    content: "",
-    route: "/other",
-  },
+  // {
+  //   title: "Other",
+  //   content: "",
+  //   route: "/other",
+  // },
 ];
 
 const ListCardContainer = styled.div`

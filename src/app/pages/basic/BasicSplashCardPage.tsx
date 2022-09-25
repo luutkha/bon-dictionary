@@ -1,7 +1,7 @@
 import { useEffect } from "react";
 import styled from "styled-components";
 import { SplashCard } from "../../components/common/card/flash-card/SplashCard";
-import toeicData from "../../data/toeic.json";
+import toeicData from "../../data/basic.json";
 import { useAppDispatch } from "../../redux/hooks";
 import {
   setCurrentListSplash,
@@ -10,7 +10,7 @@ import {
 } from "../../redux/slice/splash-card.slice";
 import { useSplashCardStore } from "../../redux/store";
 import { Word } from "../../types/common.type";
-export const ToeicSplashCardPage = () => {
+export const BasicSplashCardPage = () => {
   const dispatch = useAppDispatch();
   const { listWords, currentSplashCardDashBoard } = useSplashCardStore();
   const data = toeicData as Word[];

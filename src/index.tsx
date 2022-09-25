@@ -5,6 +5,7 @@ import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import { store } from "../src/app/redux/store";
 import App from "./App";
 import PageLayout from "./app/components/layout/page-layout/PageLayout";
+import { BasicSplashCardPage } from "./app/pages/basic/BasicSplashCardPage";
 import { ToeicSplashCardPage } from "./app/pages/toeic/ToeicSplashCardPage";
 import "./index.css";
 import reportWebVitals from "./reportWebVitals";
@@ -17,6 +18,10 @@ const router = createBrowserRouter([
   {
     path: "/toeic",
     element: <ToeicSplashCardPage />,
+  },
+  {
+    path: "/basic",
+    element: <BasicSplashCardPage />,
   },
 ]);
 const container = document.getElementById("root")!;
