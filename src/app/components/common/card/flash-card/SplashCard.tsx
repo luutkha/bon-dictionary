@@ -1,7 +1,28 @@
 import React, { useEffect } from "react";
 import { SplashCardProps } from "./interface";
-
 import styled, { keyframes } from "styled-components";
+import { DF_ENGLISH_CODE } from "../../../../constants/common";
+
+export const SplashCard = ({
+  data,
+  type,
+  isSelected,
+  otherSideId,
+  isMatched,
+}: SplashCardProps) => {
+  useEffect(() => { }, [isMatched]);
+
+  return (
+    <Container
+      key={data.eng + isMatched}
+      isSelected={isSelected}
+      isMatched={isMatched}
+    >
+      <Content>{type === DF_ENGLISH_CODE ? data.eng : data.vie}</Content>
+    </Container>
+  );
+};
+
 
 const matchedAnimation = keyframes`
   0% {
@@ -82,14 +103,14 @@ const Container = styled.div<{
     props.isMatched === undefined
       ? fadeOn
       : props.isMatched === false
-      ? unMatchedAnimation
-      : matchedAnimation};
+        ? unMatchedAnimation
+        : matchedAnimation};
   pointer-events: ${(props) =>
     props.isMatched === undefined
       ? fadeOn
       : props.isMatched === false
-      ? `none`
-      : `none`};
+        ? `none`
+        : `none`};
   animation-fill-mode: forwards;
 `;
 
@@ -102,22 +123,3 @@ const Content = styled.div`
   justify-content: center;
   align-items: center;
 `;
-export const SplashCard = ({
-  data,
-  type,
-  isSelected,
-  otherSideId,
-  isMatched,
-}: SplashCardProps) => {
-  useEffect(() => {}, [isMatched]);
-
-  return (
-    <Container
-      key={data.eng + isMatched}
-      isSelected={isSelected}
-      isMatched={isMatched}
-    >
-      <Content>{type === "En" ? data.eng : data.vie}</Content>
-    </Container>
-  );
-};

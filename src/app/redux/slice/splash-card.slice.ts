@@ -1,107 +1,29 @@
 import { createSlice, PayloadAction } from "@reduxjs/toolkit";
 import _ from "lodash";
 import { SplashCardProps } from "../../components/common/card/flash-card/interface";
+import {
+  DF_CURRENT_SPLASH_CARD_DB_VALUE,
+  MAX_WORD_DASHBOARD,
+} from "../../constants/common";
 import { Word } from "../../types/common.type";
 import { splashCardAction } from "../action/splash-card.action";
-const MAX_WORD_DASHBOARD = 5;
 type SplashCardSliceProps = {
+  targetSplashCardNeedToLearn: number;
   currentListSplash: Word[];
   listWords: Word[];
   currentSplashCardDashBoard: SplashCardProps[];
   currentEnIndex: number | undefined;
   currrentViIndex: number | undefined;
+  listSplashCardMatched: Word[];
 };
 const initialState: SplashCardSliceProps = {
+  targetSplashCardNeedToLearn: 0,
   currentListSplash: [],
   listWords: [],
-  currentSplashCardDashBoard: [
-    {
-      data: { eng: "", spelling: "", vie: "" },
-      isSelected: false,
-      otherSideId: -1,
-      type: "En",
-      isMatched: false,
-    },
-    {
-      data: { eng: "", spelling: "", vie: "" },
-      isSelected: false,
-      otherSideId: -1,
-      type: "En",
-      isMatched: false,
-    },
-    {
-      data: { eng: "", spelling: "", vie: "" },
-      isSelected: false,
-      otherSideId: -1,
-      type: "En",
-      isMatched: false,
-    },
-    {
-      data: { eng: "", spelling: "", vie: "" },
-      isSelected: false,
-      otherSideId: -1,
-      type: "En",
-      isMatched: false,
-    },
-    {
-      data: { eng: "", spelling: "", vie: "" },
-      isSelected: false,
-      otherSideId: -1,
-      type: "En",
-      isMatched: false,
-    },
-    {
-      data: { eng: "", spelling: "", vie: "" },
-      isSelected: false,
-      otherSideId: -1,
-      type: "En",
-      isMatched: false,
-    },
-    {
-      data: { eng: "", spelling: "", vie: "" },
-      isSelected: false,
-      otherSideId: -1,
-      type: "En",
-      isMatched: false,
-    },
-    {
-      data: { eng: "", spelling: "", vie: "" },
-      isSelected: false,
-      otherSideId: -1,
-      type: "En",
-      isMatched: false,
-    },
-    {
-      data: { eng: "", spelling: "", vie: "" },
-      isSelected: false,
-      otherSideId: -1,
-      type: "En",
-      isMatched: false,
-    },
-    {
-      data: { eng: "", spelling: "", vie: "" },
-      isSelected: false,
-      otherSideId: -1,
-      type: "En",
-      isMatched: false,
-    },
-    {
-      data: { eng: "", spelling: "", vie: "" },
-      isSelected: false,
-      otherSideId: -1,
-      type: "En",
-      isMatched: false,
-    },
-    {
-      data: { eng: "", spelling: "", vie: "" },
-      isSelected: false,
-      otherSideId: -1,
-      type: "En",
-      isMatched: false,
-    },
-  ],
+  currentSplashCardDashBoard: DF_CURRENT_SPLASH_CARD_DB_VALUE,
   currentEnIndex: undefined,
   currrentViIndex: undefined,
+  listSplashCardMatched: [],
 };
 
 export const splashCardSlice = createSlice({
@@ -109,6 +31,7 @@ export const splashCardSlice = createSlice({
   initialState,
   reducers: {
     setCurrentListSplash: (state, action: PayloadAction<number>) => {
+      state.targetSplashCardNeedToLearn = action.payload;
       const listWords = [...state.listWords];
       const nItems = _.sampleSize(listWords, action.payload);
       state.currentListSplash = nItems;
@@ -173,7 +96,6 @@ export const splashCardSlice = createSlice({
       action: PayloadAction<number>
     ) => {
       // fixed un-correct case (matched: false ===> undefined )
-
       state.currentSplashCardDashBoard.map((card, index) => {
         if (
           index !== state.currentEnIndex &&
@@ -213,8 +135,14 @@ export const splashCardSlice = createSlice({
 
           //start add new card to dashbroad
           const lengthToLoop = dashbroadIndexListEng.length;
+
           const randomDataForDashBroad = [
-            ..._.sampleSize(state.currentListSplash, lengthToLoop),
+            ..._.sampleSize(
+              state.currentListSplash,
+              state.currentListSplash.length >= lengthToLoop
+                ? lengthToLoop
+                : state.currentListSplash.length
+            ),
           ];
           console.log(state.currentListSplash);
           console.log(randomDataForDashBroad);
@@ -227,7 +155,11 @@ export const splashCardSlice = createSlice({
             let randomIndexVie = get_random(dashbroadIndexListVie);
 
             console.log(randomIndexEng);
-            if (randomIndexEng !== undefined && randomIndexVie !== undefined) {
+            if (
+              randomIndexEng !== undefined &&
+              randomIndexVie !== undefined &&
+              word
+            ) {
               console.log("check");
               console.log(word);
               word.eng = word.eng.split("(")[0];
@@ -338,8 +270,9 @@ export const splashCardSlice = createSlice({
             ].isMatched = true;
             state.currentSplashCardDashBoard[id].isMatched = true;
             setCurrentIndex("All", undefined);
+            state.listSplashCardMatched.push(currentCard.data);
           } else {
-            console.log("un match cheked");
+            console.log("unmatch check");
             state.currentSplashCardDashBoard[state.currentEnIndex].isSelected =
               false;
             state.currentSplashCardDashBoard[state.currrentViIndex].isSelected =
